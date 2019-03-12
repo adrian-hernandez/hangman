@@ -16,6 +16,7 @@ fun main(){
     var word: String
     var choiceIsValid: Boolean
     var playAgainResp: Char
+    var isCorrectResponse: Boolean
 
     //will move this to external DB
     val wordsDatabase = listOf("Well", "Good", "Great", "Fabulous", "Fascinating", "Wonderful", "Fantastic", "Awesome", "Excellent", "Perfect")
@@ -50,11 +51,23 @@ fun main(){
         println("$spacedblanks")
 
         while(health > 0){
+
+            var response = '!'
+            isCorrectResponse = false
             println("")
             println("Your current health: $health")
             println("")
-            println("Please choose a letter.")
-            var response: Char = readLine()!![0]
+            while(!isCorrectResponse){
+                println("Please choose a letter.")
+                 response = readLine()!![0]
+
+                if(response.isLetter()) {
+                    isCorrectResponse = true
+                }
+                else{
+                    println("Oops! Looks like you slipped your finger there!")
+                }
+            }
 
             var matched: Boolean = false
             for ((index, value) in word.withIndex()) {
