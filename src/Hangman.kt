@@ -2,11 +2,7 @@ import java.util.*
 
 fun main(){
 
-    //Hangman version #1
-    //The game is currently very lazily programmed,
-    // but it works as long as the user do not slip
-    // and type something other than a single Char
-    // at every turn.
+    //TODO
     //Need to have a word database
     //Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
