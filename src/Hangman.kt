@@ -7,10 +7,8 @@ fun main(){
     // but it works as long as the user do not slip
     // and type something other than a single Char
     // at every turn.
-    //Need to add checks on readLine()
     //Need to have a word database
     //Need to use as many Kotlin concepts as possible
-    //Need to display more messages according to game state
     var playAgain: Boolean
     var health: Int
     var word: String
@@ -47,10 +45,13 @@ fun main(){
         for (letter in blanks) {
             spacedblanks += "$letter "
         }
-        println("")
+
+        drawLivePlayer(health)
         println("$spacedblanks")
 
         while(health > 0){
+
+            //drawLivePlayer(health)
 
             var response = '!'
             isCorrectResponse = false
@@ -79,9 +80,13 @@ fun main(){
             }
             if(!matched){
                 health--
-                println("Opps $response is not in the secret word")
+                println("Yikes! $response is not in the mystery word :(")
+                drawLivePlayer(health)
             }else{
-                println("Great! $response is in the secret word!")
+                println("Great! $response is in the mystery word!")
+                if(health > 0){
+                    drawLivePlayer(health)
+                }
             }
             println("")
 
@@ -99,6 +104,7 @@ fun main(){
             }
         }
         if(health < 1){
+            drawDead()
             println("You lost :(")
         }
 
@@ -120,5 +126,100 @@ fun main(){
                 println("Thanks for playing! Good-bye")
             }
         }
+    }
+}
+
+fun drawSixHealtStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|")
+    println("|")
+    println("|")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawFiveHealthStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|     O")
+    println("|")
+    println("|")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawFourHealthStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|     O")
+    println("|     |")
+    println("|")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawThreeHealthStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|     O")
+    println("|    /|")
+    println("|")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawTwoHealthStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("      O")
+    println("""|    /|\""")
+    println("|")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawOneHealthStatus(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|     O")
+    println("""|    /|\""")
+    println("""|    /""")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawDead(){
+    println("")
+    println(" -----")
+    println("|     |")
+    println("|     O")
+    println("""|    /|\""")
+    println("""|    / \""")
+    println("|")
+    println("|")
+    println("")
+}
+
+fun drawLivePlayer(health: Int){
+    when(health){
+        6 -> drawSixHealtStatus()
+        5 -> drawFiveHealthStatus()
+        4 -> drawFourHealthStatus()
+        3 -> drawThreeHealthStatus()
+        2 -> drawTwoHealthStatus()
+        1 -> drawOneHealthStatus()
     }
 }
