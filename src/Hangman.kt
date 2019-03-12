@@ -1,9 +1,11 @@
 import java.util.*
+import java.io.File
+import java.io.InputStream
 
 fun main(){
 
     //TODO
-    //Need to have a word database
+    //Simplify DB data; too many difficult words
     //Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
     var health: Int
@@ -12,12 +14,19 @@ fun main(){
     var playAgainResp: Char
     var isCorrectResponse: Boolean
 
-    //will move this to external DB
-    val wordsDatabase = listOf("Well", "Good", "Great", "Fabulous", "Fascinating", "Wonderful", "Fantastic", "Awesome", "Excellent", "Perfect")
+    val inputStream: InputStream = File("word-database.txt").inputStream()
+    val wordsDatabase = mutableListOf<String>()
 
-    //added print statements to test the base of the project
+    inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it)} }
+
+    //easy level:  default
+    val easyList = wordsDatabase.filter{
+        word -> word.length > 4 && word.length < 8
+    }
+
+    println("easyList $easyList")
+
     playAgain = true
-
 
     while(playAgain){
 
@@ -28,7 +37,7 @@ fun main(){
         println("Welcome. Let's play Hangman!")
 
         var random = Random()
-        var index = random.nextInt(wordsDatabase.size)
+        var index = random.nextInt(easyList.size)
         word = wordsDatabase[index]
 
         var blanks = word.toCharArray()
@@ -46,8 +55,6 @@ fun main(){
         println("$spacedblanks")
 
         while(health > 0){
-
-            //drawLivePlayer(health)
 
             var response = '!'
             isCorrectResponse = false
@@ -102,6 +109,7 @@ fun main(){
         if(health < 1){
             drawDead()
             println("You lost :(")
+            println("The mystery word was: $word")
         }
 
         while(!choiceIsValid){
