@@ -462,7 +462,6 @@ abhorrible
 abhorring
 abhors
 Abhorson
-ABI
 aby
 Abia
 Abiathar
@@ -625,8 +624,6 @@ Abkhasian
 Abkhaz
 Abkhazia
 Abkhazian
-abl
-abl.
 ablach
 ablactate
 ablactated
@@ -870,11 +867,6 @@ abovesaid
 abovestairs
 abow
 abox
-Abp
-ABPC
-Abqaiq
-abr
-abr.
 Abra
 abracadabra
 abrachia
@@ -1551,11 +1543,6 @@ acaulescent
 acauline
 acaulose
 acaulous
-ACAWS
-ACB
-ACBL
-ACC
-acc.
 acca
 accable
 Accad
@@ -1570,8 +1557,6 @@ acceder
 acceders
 accedes
 acceding
-accel
-accel.
 accelerable
 accelerando
 accelerant
@@ -1954,9 +1939,6 @@ accruement
 accruer
 accrues
 accruing
-ACCS
-ACCT
-acct.
 accts
 accubation
 accubita
@@ -2925,9 +2907,6 @@ Acousticon
 acousticophobia
 acoustics
 acoustoelectric
-ACP
-acpt
-acpt.
 Acquah
 acquaint
 acquaintance
@@ -3313,9 +3292,6 @@ Actaeaceae
 Actaeon
 Actaeonidae
 acted
-actg
-actg.
-ACTH
 Actiad
 Actian
 actify
@@ -3802,7 +3778,6 @@ adcon
 adcons
 adcraft
 ADD
-add.
 Adda
 addability
 addable
@@ -4347,9 +4322,6 @@ adytta
 adytum
 aditus
 Adivasi
-ADIZ
-adj
-adj.
 adjacence
 adjacency
 adjacencies
@@ -4387,8 +4359,6 @@ adjournment
 adjournments
 adjourns
 adjoust
-adjt
-adjt.
 adjudge
 adjudgeable
 adjudged
@@ -4482,8 +4452,6 @@ adlumidin
 adlumidine
 adlumin
 adlumine
-ADM
-Adm.
 Admah
 adman
 admarginate
@@ -4992,8 +4960,6 @@ adustion
 adustiosis
 adustive
 Aduwa
-adv
-adv.
 Advaita
 advance
 advanceable
@@ -5179,8 +5145,6 @@ advowry
 advowsance
 advowson
 advowsons
-advt
-advt.
 adward
 adwesch
 adz
@@ -5190,9 +5154,6 @@ adzes
 Adzharia
 Adzharistan
 adzooks
-ae
-ae.
-AEA
 Aeacidae
 Aeacides
 Aeacus
@@ -5557,7 +5518,6 @@ aerometry
 aerometric
 aeromotor
 aeron
-aeron.
 aeronat
 aeronaut
 aeronautic
@@ -5714,8 +5674,6 @@ aestuation
 aestuous
 aesture
 aestus
-AET
-aet.
 aetat
 aethalia
 Aethalides
@@ -5766,8 +5724,6 @@ AEU
 aevia
 aeviternal
 aevum
-AF
-Af.
 AFA
 aface
 afaced
@@ -6537,12 +6493,6 @@ agaze
 agazed
 agba
 Agbogla
-AGC
-AGCA
-agcy
-agcy.
-AGCT
-AGD
 Agdistis
 age
 ageable
@@ -7021,8 +6971,6 @@ agouties
 agoutis
 agpaite
 agpaitic
-AGR
-agr.
 Agra
 agrace
 Agraeus
@@ -7096,7 +7044,6 @@ agrias
 agribusiness
 agribusinesses
 agric
-agric.
 agricere
 Agricola
 agricole
@@ -7173,7 +7120,6 @@ Agromyza
 agromyzid
 Agromyzidae
 agron
-agron.
 agronome
 agronomy
 agronomial
@@ -8052,10 +7998,6 @@ Akutan
 akvavit
 akvavits
 Akwapim
-al
-al.
-ALA
-Ala.
 Alabama
 Alabaman
 Alabamian
@@ -8216,7 +8158,6 @@ alarumed
 alaruming
 alarums
 Alas
-Alas.
 alasas
 Alascan
 Alasdair
@@ -8249,8 +8190,6 @@ Alaunian
 alaunt
 Alawi
 alazor
-Alb
-Alb.
 Alba
 albacea
 Albacete
@@ -9088,8 +9027,6 @@ alfridaric
 Alfur
 Alfurese
 Alfuro
-Alg
-Alg.
 alga
 algae
 algaecide
@@ -9531,8 +9468,6 @@ aljamiado
 aljamiah
 aljoba
 aljofaina
-alk
-alk.
 Alkabo
 alkahest
 alkahestic
@@ -10710,10 +10645,6 @@ Alstroemeria
 alsweill
 alswith
 Alsworth
-alt
-alt.
-Alta
-Alta.
 Altadena
 Altaf
 Altai
@@ -10908,9 +10839,6 @@ alula
 alulae
 alular
 alulet
-Alulim
-alum
-alum.
 Alumbank
 alumbloom
 alumbrado
@@ -11069,8 +10997,6 @@ alwite
 Alwitt
 Alzada
 alzheimer
-AM
-Am.
 AMA
 amaas
 Amabel
@@ -11749,7 +11675,6 @@ amentulum
 amentum
 amenuse
 Amer
-Amer.
 Amerada
 amerce
 amerceable
@@ -12542,7 +12467,6 @@ amoved
 amoving
 amowt
 AMP
-amp.
 ampalaya
 ampalea
 ampangabeite
@@ -12915,7 +12839,6 @@ ampollosity
 ampongue
 ampoule
 ampoules
-AMPS
 ampul
 ampulate
 ampulated
@@ -12948,9 +12871,7 @@ amputative
 amputator
 amputee
 amputees
-Amr
 amra
-AMRAAM
 Amram
 Amratian
 Amravati
@@ -12963,9 +12884,6 @@ Amrita
 amritas
 Amritsar
 Amroati
-AMROC
-AMS
-AMSAT
 amsath
 Amschel
 Amsden
@@ -12974,9 +12892,6 @@ Amsonia
 Amsterdam
 Amsterdamer
 Amston
-AMSW
-AMT
-amt.
 amtman
 amtmen
 Amtorg
@@ -13034,12 +12949,10 @@ amusiveness
 amutter
 amuze
 amuzzle
-AMVET
 amvis
 Amvrakikos
 amzel
 an
-an.
 ana
 Anabaena
 anabaenas
@@ -13316,7 +13229,6 @@ anakoluthia
 anakrousis
 anaktoron
 anal
-anal.
 analabos
 analagous
 analav
@@ -13669,7 +13581,6 @@ anastrophe
 anastrophy
 Anastrophia
 Anat
-anat.
 anatabine
 anatase
 anatases
@@ -14628,7 +14539,6 @@ Angka
 angkhak
 Angkor
 Angl
-Angl.
 anglaise
 Angle
 angleberry
@@ -14946,7 +14856,6 @@ anilopyrin
 anilopyrine
 anils
 anim
-anim.
 anima
 animability
 animable
@@ -15284,7 +15193,7 @@ anlia
 anmia
 Anmoore
 Ann
-ann.
+ann
 Anna
 Annaba
 Annabal
@@ -15669,7 +15578,7 @@ anomural
 anomuran
 anomurous
 anon
-anon.
+anon
 anonaceous
 anonad
 anonang
@@ -15875,7 +15784,7 @@ answerless
 answerlessly
 answers
 ant
-ant.
+ant
 ANTA
 Antabus
 Antabuse
@@ -16462,7 +16371,7 @@ anthroic
 anthrol
 anthrone
 anthrop
-anthrop.
+anthrop
 anthrophore
 anthropic
 anthropical
@@ -16498,7 +16407,7 @@ Anthropoidea
 anthropoidean
 anthropoids
 anthropol
-anthropol.
+anthropol
 anthropolater
 anthropolatry
 anthropolatric
@@ -17965,7 +17874,7 @@ antiputrefactive
 antiputrescent
 antiputrid
 antiq
-antiq.
+antiq
 antiqua
 antiquary
 antiquarian
@@ -19187,7 +19096,7 @@ apoatropine
 apobiotic
 apoblast
 Apoc
-Apoc.
+Apoc
 apocaffeine
 Apocalypse
 apocalypses
@@ -19634,7 +19543,7 @@ apozema
 apozemical
 apozymase
 APP
-app.
+app
 appay
 appair
 appal
@@ -20144,7 +20053,7 @@ approves
 approving
 approvingly
 approx
-approx.
+approx
 approximable
 approximal
 approximant
@@ -20174,7 +20083,7 @@ appurtenance
 appurtenances
 appurtenant
 APR
-Apr.
+Apr
 APRA
 apractic
 apraxia
@@ -20240,7 +20149,7 @@ Apsyrtus
 apsis
 Apsu
 APT
-apt.
+apt
 Aptal
 aptate
 Aptenodytes
@@ -20443,10 +20352,10 @@ aquosity
 aquotization
 aquotize
 ar
-Ar.
+Ar
 ARA
 Arab
-Arab.
+Arab
 araba
 araban
 arabana
@@ -20875,7 +20784,7 @@ Arcesius
 Arceuthobium
 arcform
 arch
-Arch.
+Arch
 archabomination
 archae
 Archaean
@@ -20891,7 +20800,7 @@ archaeographic
 archaeographical
 archaeohippus
 archaeol
-archaeol.
+archaeol
 archaeolater
 archaeolatry
 archaeolith
@@ -21251,7 +21160,7 @@ archispore
 archistome
 archisupreme
 archit
-archit.
+archit
 Archytas
 architect
 architective
@@ -21406,7 +21315,7 @@ archspirit
 archsteward
 archswindler
 archt
-archt.
+archt
 archtempter
 archthief
 archtyrant
@@ -21748,7 +21657,7 @@ arfillite
 arfs
 arfvedsonite
 Arg
-Arg.
+Arg
 Argades
 argaile
 argal
@@ -22234,7 +22143,7 @@ Arius
 Arivaca
 Arivaipa
 Ariz
-Ariz.
+Ariz
 Arizona
 Arizonan
 arizonans
@@ -22246,7 +22155,7 @@ Arjan
 Arjun
 Arjuna
 Ark
-Ark.
+Ark
 Arkab
 Arkabutla
 Arkadelphia
@@ -22306,7 +22215,7 @@ Arlon
 arloup
 Arluene
 ARM
-Arm.
+Arm
 Arma
 Armada
 armadas
@@ -22647,7 +22556,7 @@ arquerite
 arquifoux
 Arquit
 arr
-arr.
+arr
 arracach
 arracacha
 Arracacia
@@ -22986,7 +22895,7 @@ arsonvalization
 arsphenamine
 Arst
 art
-art.
+art
 Arta
 artaba
 artabe
@@ -24564,7 +24473,7 @@ Assiniboins
 assyntite
 assinuate
 Assyr
-Assyr.
+Assyr
 Assyria
 Assyrian
 Assyrianize
@@ -24618,10 +24527,10 @@ Assmannshausen
 Assmannshauser
 assmanship
 Assn
-assn.
+assn
 assobre
 assoc
-assoc.
+assoc
 associability
 associable
 associableness
@@ -24684,7 +24593,7 @@ Assouan
 ASSR
 asssembler
 asst
-asst.
+asst
 assuade
 assuagable
 assuage
@@ -24947,7 +24856,7 @@ astoundingly
 astoundment
 astounds
 astr
-astr.
+astr
 Astra
 Astrabacus
 Astrachan
@@ -25065,7 +24974,7 @@ astrohatch
 astroid
 astroite
 astrol
-astrol.
+astrol
 astrolabe
 astrolabes
 astrolabical
@@ -25567,7 +25476,7 @@ atloid
 atloidean
 atloidoaxoid
 ATM
-atm.
+atm
 atma
 Atman
 atmans
@@ -25824,7 +25733,7 @@ ATS
 atsara
 Atsugi
 ATT
-att.
+att
 Atta
 attababy
 attabal
@@ -25998,7 +25907,7 @@ attestors
 attests
 Atthia
 atty
-atty.
+atty
 Attic
 Attica
 Attical
@@ -26091,7 +26000,7 @@ attrap
 attrectation
 attry
 attrib
-attrib.
+attrib
 attributable
 attributal
 attribute
@@ -26226,7 +26135,7 @@ Aucuba
 aucubas
 aucupate
 aud
-aud.
+aud
 audace
 audacious
 audaciously
@@ -26349,7 +26258,7 @@ Aufklrung
 Aufmann
 auftakt
 Aug
-Aug.
+Aug
 auganite
 Auge
 Augean
@@ -26690,7 +26599,7 @@ aurung
 Aurungzeb
 aurure
 AUS
-Aus.
+Aus
 Ausable
 Auschwitz
 auscult
@@ -26735,7 +26644,7 @@ auspiciousness
 Aussie
 aussies
 Aust
-Aust.
+Aust
 Austafrican
 austausch
 Austell
@@ -26763,7 +26672,7 @@ Austine
 Austinville
 Auston
 Austral
-Austral.
+Austral
 Australanthropus
 Australasia
 Australasian
@@ -26854,7 +26763,7 @@ auteurism
 auteurs
 autexousy
 auth
-auth.
+auth
 authentic
 authentical
 authentically
@@ -26924,7 +26833,7 @@ autisms
 autist
 autistic
 auto
-auto.
+auto
 autoabstract
 autoactivation
 autoactive
@@ -27595,7 +27504,7 @@ Auvergne
 Auvil
 Auwers
 AUX
-aux.
+aux
 auxamylase
 auxanogram
 auxanology
@@ -27653,7 +27562,7 @@ auxotrophic
 Auxvasse
 Auzout
 AV
-av.
+av
 Ava
 avadana
 avadavat
@@ -27723,9 +27632,9 @@ Avawam
 AVC
 AVD
 avdp
-avdp.
+avdp
 Ave
-Ave.
+Ave
 Avebury
 Aveiro
 Aveyron
@@ -27849,7 +27758,7 @@ Avestan
 avestruz
 aveugle
 avg
-avg.
+avg
 avgas
 avgases
 avgasses
@@ -27974,7 +27883,7 @@ AVLIS
 Avlona
 AVM
 avn
-avn.
+avn
 Avner
 Avo
 Avoca
@@ -28015,7 +27924,7 @@ avoidupoises
 avoyer
 avoyership
 avoir
-avoir.
+avoir
 avoirdupois
 avoke
 avolate
@@ -28246,7 +28155,7 @@ AWST
 AWU
 awunctive
 Ax
-ax.
+ax
 Axa
 AXAF
 axal
@@ -29298,7 +29207,7 @@ Bacopa
 Bacova
 bacquet
 bact
-bact.
+bact
 bacteraemia
 bacteremia
 bacteremic
@@ -29335,7 +29244,7 @@ bacteriohemolysin
 bacterioid
 bacterioidal
 bacteriol
-bacteriol.
+bacteriol
 bacteriolysin
 bacteriolysis
 bacteriolytic
@@ -30020,7 +29929,7 @@ bakupari
 Bakutu
 Bakwiri
 BAL
-bal.
+bal
 Bala
 Balaam
 Balaamite
@@ -30596,7 +30505,7 @@ balsas
 balsawood
 Balshem
 Balt
-Balt.
+Balt
 Balta
 Baltassar
 baltei
@@ -31181,7 +31090,7 @@ baptizing
 Baptlsta
 Baptornis
 BAR
-bar.
+bar
 Bara
 barabara
 Barabas
@@ -31611,7 +31520,7 @@ barish
 barysilite
 barysphere
 barit
-barit.
+barit
 baryta
 barytas
 barite
@@ -32065,7 +31974,7 @@ barstool
 barstools
 Barstow
 Bart
-Bart.
+Bart
 Barta
 Bartel
 Bartelso
@@ -33147,7 +33056,7 @@ BBA
 BBB
 BBC
 BBL
-bbl.
+bbl
 bbls
 BBN
 bbs
@@ -33175,7 +33084,7 @@ BCS
 BCWP
 BCWS
 BD
-bd.
+bd
 BDA
 BDC
 BDD
@@ -33199,7 +33108,7 @@ BDes
 BDF
 bdft
 bdl
-bdl.
+bdl
 bdle
 bdls
 bdrm
@@ -35084,7 +34993,7 @@ belfry
 belfried
 belfries
 Belg
-Belg.
+Belg
 belga
 Belgae
 belgard
@@ -35764,7 +35673,7 @@ benevolist
 Benezett
 Benfleet
 BEng
-Beng.
+Beng
 Bengal
 Bengalese
 Bengali
@@ -37059,7 +36968,7 @@ beswinge
 beswink
 beswitch
 bet
-bet.
+bet
 Beta
 betacaine
 betacism
@@ -37709,7 +37618,7 @@ biaxiality
 biaxially
 biaxillary
 Bib
-Bib.
+Bib
 bibacious
 bibaciousness
 bibacity
@@ -37750,7 +37659,7 @@ bibiri
 bibiru
 bibitory
 Bibl
-Bibl.
+Bibl
 Bible
 bibles
 bibless
@@ -37771,7 +37680,7 @@ biblioclasm
 biblioclast
 bibliofilm
 bibliog
-bibliog.
+bibliog
 bibliogenesis
 bibliognost
 bibliognostic
@@ -38998,7 +38907,7 @@ bioflavinoid
 bioflavonoid
 biofog
 biog
-biog.
+biog
 biogas
 biogases
 biogasses
@@ -39042,7 +38951,7 @@ bioinstrument
 bioinstrumentation
 biokinetics
 biol
-biol.
+biol
 Biola
 biolinguistics
 biolyses
@@ -40109,7 +40018,7 @@ bixin
 Bixler
 biz
 Byz
-Byz.
+Byz
 bizant
 byzant
 Byzantian
@@ -40152,21 +40061,21 @@ Bjorn
 bjorne
 Bjornson
 Bk
-bk.
+bk
 bkbndr
 bkcy
-bkcy.
+bkcy
 bkg
-bkg.
+bkg
 bkgd
 bklr
 bkpr
 bkpt
 bks
-bks.
+bks
 bkt
 BL
-bl.
+bl
 BLA
 blaasop
 blab
@@ -40768,7 +40677,7 @@ blazons
 Blcher
 bld
 bldg
-bldg.
+bldg
 BldgE
 bldr
 BLDS
@@ -41206,7 +41115,7 @@ blizzardly
 blizzardous
 blizzards
 blk
-blk.
+blk
 blksize
 BLL
 BLM
@@ -41881,7 +41790,7 @@ BMus
 BMV
 BMW
 BN
-Bn.
+Bn
 BNC
 BNET
 BNF
@@ -42583,7 +42492,7 @@ bokos
 Bokoshe
 Bokoto
 Bol
-Bol.
+Bol
 bola
 Bolag
 Bolan
@@ -43529,7 +43438,7 @@ bopster
 BOQ
 Boqueron
 BOR
-bor.
+bor
 Bora
 borable
 boraces
@@ -43936,7 +43845,7 @@ boswellized
 boswellizing
 Bosworth
 BOT
-bot.
+bot
 bota
 botan
 botany
@@ -44697,7 +44606,7 @@ Bozzaris
 bozze
 bozzetto
 BP
-bp.
+bp
 BPA
 BPC
 BPDPA
@@ -44714,7 +44623,7 @@ BPS
 BPSS
 bpt
 BR
-Br.
+Br
 Bra
 Braasch
 braata
@@ -45675,7 +45584,7 @@ braxy
 braxies
 Braxton
 Braz
-Braz.
+Braz
 braza
 brazas
 braze
@@ -46397,7 +46306,7 @@ Brietta
 Brieux
 brieve
 Brig
-Brig.
+Brig
 brigade
 brigaded
 brigades
@@ -46700,7 +46609,7 @@ Bristolville
 Bristow
 brisure
 Brit
-Brit.
+Brit
 Brita
 Britain
 britany
@@ -47415,7 +47324,7 @@ broozled
 broquery
 broquineer
 Bros
-bros.
+bros
 Brose
 Broseley
 broses
@@ -47939,7 +47848,7 @@ BSTJ
 BSTrans
 BSW
 BT
-Bt.
+Bt
 BTAM
 BTCh
 BTE
@@ -47947,17 +47856,17 @@ BTh
 BTHU
 btise
 BTL
-btl.
+btl
 BTN
 BTO
 BTOL
 btry
-btry.
+btry
 BTS
 BTU
 BTW
 BU
-bu.
+bu
 BuAer
 bual
 buat
@@ -48535,7 +48444,7 @@ bukshee
 bukshi
 Bukum
 Bul
-bul.
+bul
 Bula
 Bulacan
 bulak
@@ -48588,7 +48497,7 @@ bulchin
 bulder
 Bulfinch
 Bulg
-Bulg.
+Bulg
 Bulganin
 Bulgar
 Bulgari
@@ -48639,7 +48548,7 @@ bulking
 bulkish
 bulks
 Bull
-bull.
+bull
 bulla
 bullace
 bullaces
@@ -49171,7 +49080,7 @@ Buprestis
 buqsha
 buqshas
 BUR
-Bur.
+Bur
 bura
 Burack
 Burayan
@@ -49655,7 +49564,7 @@ burweed
 burweeds
 Burwell
 BUS
-bus.
+bus
 Busaos
 busbar
 busbars
@@ -51124,7 +51033,7 @@ caking
 cakra
 cakravartin
 Cal
-Cal.
+Cal
 calaba
 Calabar
 Calabari
@@ -51610,7 +51519,7 @@ caliduct
 Calie
 Caliente
 Calif
-Calif.
+Calif
 califate
 califates
 Califon
@@ -52124,7 +52033,7 @@ camauro
 camauros
 Camaxtli
 Camb
-Camb.
+Camb
 Cambay
 cambaye
 Camball
@@ -52564,7 +52473,7 @@ camused
 camuses
 camwood
 CAN
-Can.
+Can
 Cana
 Canaan
 Canaanite
@@ -52578,7 +52487,7 @@ Canace
 Canacee
 canacuas
 Canad
-Canad.
+Canad
 Canada
 Canadensis
 Canadian
@@ -52687,7 +52596,7 @@ Canaveral
 Canberra
 Canby
 canc
-canc.
+canc
 cancan
 cancans
 canccelli
@@ -53220,7 +53129,7 @@ cansos
 canst
 canstick
 Cant
-Cant.
+Cant
 Cantab
 cantabank
 cantabile
@@ -53436,7 +53345,7 @@ caoutchin
 caoutchouc
 caoutchoucin
 CAP
-cap.
+cap
 capa
 capability
 capabilities
@@ -53829,7 +53738,7 @@ caprone
 capronic
 capronyl
 caps
-caps.
+caps
 capsa
 capsaicin
 Capsella
@@ -53886,7 +53795,7 @@ capsulotome
 capsulotomy
 capsumin
 Capt
-Capt.
+Capt
 captacula
 captaculum
 CAPTAIN
@@ -54436,7 +54345,7 @@ carcinosis
 carcinus
 carcoon
 Card
-Card.
+Card
 cardaissin
 Cardale
 Cardamine
@@ -56197,7 +56106,7 @@ Caswell
 caswellite
 Casziel
 CAT
-cat.
+cat
 catabaptist
 catabases
 catabasion
@@ -56664,7 +56573,7 @@ catfooted
 catgut
 catguts
 Cath
-Cath.
+Cath
 Catha
 Cathay
 Cathayan
@@ -57131,7 +57040,7 @@ Cauqui
 caurale
 Caurus
 caus
-caus.
+caus
 causa
 causability
 causable
@@ -57242,7 +57151,7 @@ cautiousnesses
 cautivo
 Cauvery
 CAV
-Cav.
+Cav
 cava
 cavae
 cavaedia
@@ -57437,7 +57346,7 @@ CBS
 CBW
 CBX
 CC
-cc.
+cc
 CCA
 CCAFS
 CCC
@@ -57481,7 +57390,7 @@ CCV
 CCW
 ccws
 CD
-cd.
+cd
 CDA
 CDAR
 CDB
@@ -57500,7 +57409,7 @@ Cdoba
 CDP
 CDPR
 CDR
-Cdr.
+Cdr
 Cdre
 CDROM
 CDS
@@ -57917,7 +57826,7 @@ celsitude
 Celsius
 CELSS
 Celt
-Celt.
+Celt
 Celtdom
 Celtiberi
 Celtiberian
@@ -57980,7 +57889,7 @@ cemetery
 cemeterial
 cemeteries
 CEN
-cen.
+cen
 Cenac
 cenacle
 cenacles
@@ -58078,7 +57987,7 @@ censused
 censuses
 censusing
 cent
-cent.
+cent
 centage
 centai
 cental
@@ -58886,7 +58795,7 @@ Cerritos
 Cerro
 Cerrogordo
 CERT
-cert.
+cert
 certain
 certainer
 certainest
@@ -59159,7 +59068,7 @@ cevitamic
 Cezanne
 Cezannesque
 CF
-cf.
+cf
 CFA
 CFB
 CFC
@@ -59177,7 +59086,7 @@ CFP
 CFR
 cfs
 CG
-cg.
+cg
 CGA
 CGCT
 CGE
@@ -60058,7 +59967,7 @@ Chaouia
 Chaource
 chaoush
 CHAP
-chap.
+chap
 Chapa
 Chapacura
 Chapacuran
@@ -61262,7 +61171,7 @@ Cheltenham
 Chelton
 Chelura
 Chem
-chem.
+chem
 Chema
 Chemakuan
 Chemar
@@ -61760,7 +61669,7 @@ chewstick
 Chewsville
 chez
 chg
-chg.
+chg
 chhatri
 Chhnang
 CHI
@@ -62327,7 +62236,7 @@ chimps
 Chimu
 Chimus
 Chin
-Chin.
+Chin
 China
 chinaberry
 chinaberries
@@ -63090,7 +62999,7 @@ chlorprophenpyridamine
 chlorsalol
 chlortetracycline
 ChM
-chm.
+chm
 Chmielewski
 chmn
 chn
@@ -63856,7 +63765,7 @@ Chozar
 CHP
 CHQ
 Chr
-Chr.
+Chr
 chrematheism
 chrematist
 chrematistic
@@ -64357,7 +64266,7 @@ chromoxylograph
 chromoxylography
 chromule
 Chron
-Chron.
+Chron
 chronal
 chronanagram
 chronaxy
@@ -64456,7 +64365,7 @@ Chrosperma
 Chrotoem
 chrotta
 chs
-chs.
+chs
 Chtaura
 chteau
 Chteauroux
@@ -65411,7 +65320,7 @@ Ciitroen
 Cykana
 cyke
 cyl
-cyl.
+cyl
 Cila
 cilantro
 cilantros
@@ -66076,7 +65985,7 @@ Cypselus
 cyptozoic
 Cipus
 cir
-cir.
+cir
 Cyra
 Cyrano
 circ
@@ -66750,7 +66659,7 @@ cistuses
 cistvaen
 Ciszek
 CIT
-cit.
+cit
 Cita
 citable
 citadel
@@ -67073,7 +66982,7 @@ CIU
 Ciudad
 cyul
 civ
-civ.
+civ
 cive
 civet
 civetlike
@@ -67150,7 +67059,7 @@ CJ
 ck
 ckw
 CL
-cl.
+cl
 clabber
 clabbered
 clabbery
@@ -67627,7 +67536,7 @@ clasping
 clasps
 claspt
 CLASS
-class.
+class
 classable
 classbook
 classed
@@ -69201,7 +69110,7 @@ CMD
 CMDF
 cmdg
 Cmdr
-Cmdr.
+Cmdr
 CMDS
 CMF
 CMG
@@ -69212,7 +69121,7 @@ CMIP
 CMIS
 CMISE
 CML
-cml.
+cml
 CMMU
 Cmon
 CMOS
@@ -69277,7 +69186,7 @@ CNS
 CNSR
 Cnut
 CO
-Co.
+Co
 coabode
 coabound
 coabsume
@@ -70791,7 +70700,7 @@ Cofsky
 coft
 cofunction
 cog
-cog.
+cog
 Cogan
 cogboat
 Cogen
@@ -71269,7 +71178,7 @@ coking
 cokneyfy
 cokuloris
 Col
-Col.
+Col
 COLA
 colaborer
 colacobioses
@@ -71493,7 +71402,7 @@ coliuria
 Colius
 colk
 coll
-coll.
+coll
 Colla
 collab
 collabent
@@ -71550,7 +71459,7 @@ collarino
 collarinos
 collarless
 collarmant
-collat.
+collat
 collatable
 collate
 collated
@@ -71822,7 +71731,7 @@ collophanite
 collophore
 collops
 Colloq
-colloq.
+colloq
 colloque
 colloquy
 colloquia
@@ -71893,7 +71802,7 @@ Coln
 colnaria
 Colner
 Colo
-Colo.
+Colo
 colob
 colobi
 colobin
@@ -72340,7 +72249,7 @@ Colwyn
 colza
 colzas
 COM
-Com.
+Com
 coma
 comacine
 comade
@@ -72390,7 +72299,7 @@ comatula
 comatulae
 comatulid
 comb
-comb.
+comb
 combaron
 combasou
 combat
@@ -72494,12 +72403,12 @@ combwright
 comd
 COMDEX
 comdg
-comdg.
+comdg
 comdia
 Comdr
-Comdr.
+Comdr
 Comdt
-Comdt.tyess
+Comdttyess
 comeback
 comebackeron
 Comecrudo
@@ -72649,7 +72558,7 @@ comitragedy
 comix
 coml
 COMM
-comm.
+comm
 comma
 Commack
 commaes
@@ -73126,7 +73035,7 @@ comournful
 comous
 Comox
 comp
-comp.
+comp
 compaa
 COMPACT
 compactability
@@ -73191,7 +73100,7 @@ companionships
 companionway
 companionways
 compar
-compar.
+compar
 comparability
 comparable
 comparableness
@@ -73818,7 +73727,7 @@ computing
 computist
 computus
 Comr
-Comr.dely
+Comrdely
 comradeliness
 comradery
 comrades
@@ -73851,7 +73760,7 @@ comurmurer
 Comus
 comvia
 Con
-Con.
+Con
 conable
 conacaste
 conacre
@@ -73880,7 +73789,7 @@ Conaway
 conaxial
 conbinas
 conc
-conc.
+conc
 concactenated
 concamerate
 concamerated
@@ -74626,7 +74535,7 @@ Conesus
 Conesville
 Conetoe
 conf
-conf.
+conf
 confab
 confabbed
 confabbing
@@ -74981,7 +74890,7 @@ confuters
 confutes
 confuting
 Cong
-Cong.
+Cong
 conga
 congaed
 congaing
@@ -75246,7 +75155,7 @@ Conium
 coniums
 conyza
 conj
-conj.
+conj
 conject
 conjective
 conjecturable
@@ -75356,7 +75265,7 @@ conli
 Conlin
 Conlon
 CONN
-Conn.
+Conn
 connach
 Connacht
 connaisseur
@@ -75568,7 +75477,7 @@ Conringia
 Conroe
 Conroy
 CONS
-Cons.
+Cons
 consacre
 Consalve
 consanguine
@@ -75998,7 +75907,7 @@ constitutively
 constitutiveness
 constitutor
 constr
-constr.
+constr
 constrain
 constrainable
 constrained
@@ -76163,7 +76072,7 @@ consumptivity
 Consus
 consute
 Cont
-cont.
+cont
 contabescence
 contabescent
 CONTAC
@@ -76230,7 +76139,7 @@ contangoes
 contangos
 contchar
 contd
-contd.
+contd
 Conte
 conteck
 contect
@@ -76247,7 +76156,7 @@ contemningly
 contemnor
 contemns
 contemp
-contemp.
+contemp
 contemper
 contemperate
 contemperature
@@ -76487,7 +76396,7 @@ contouring
 contourne
 contours
 contr
-contr.
+contr
 contra
 contraband
 contrabandage
@@ -76710,7 +76619,7 @@ contrefort
 contrepartie
 contretemps
 contrib
-contrib.
+contrib
 contributable
 contributary
 contribute
@@ -77291,7 +77200,7 @@ coontail
 coontie
 coonties
 Coop
-coop.
+coop
 cooped
 coopee
 Cooper
@@ -77806,7 +77715,7 @@ Coquitlam
 coquito
 coquitos
 Cor
-Cor.
+Cor
 Cora
 Corabeca
 Corabecan
@@ -78650,7 +78559,7 @@ Corozal
 corozo
 corozos
 Corp
-corp.
+corp
 Corpl
 corpn
 corpora
@@ -78724,7 +78633,7 @@ corpuscule
 corpusculous
 corpusculum
 Corr
-corr.
+corr
 corrade
 corraded
 corrades
@@ -78784,7 +78693,7 @@ corregimiento
 corregimientos
 Correy
 correl
-correl.
+correl
 correlatable
 correlate
 correlated
@@ -81153,12 +81062,12 @@ Cozza
 Cozzens
 cozzes
 CP
-cp.
+cp
 CPA
 CPC
 CPCU
 CPD
-cpd.
+cpd
 CPE
 CPFF
 CPH
@@ -81180,7 +81089,7 @@ cputime
 CPW
 CQ
 CR
-cr.
+cr
 craal
 craaled
 craaling
@@ -82470,7 +82379,7 @@ cryingly
 crikey
 Crile
 Crim
-crim.
+crim
 crimble
 crime
 Crimea
@@ -82924,7 +82833,7 @@ Crissie
 crissum
 Crist
 cryst
-cryst.
+cryst
 Crista
 Crysta
 Cristabel
@@ -83031,7 +82940,7 @@ cristopher
 crystosphene
 Criswell
 crit
-crit.
+crit
 critch
 Critchfield
 criteria
@@ -83989,7 +83898,7 @@ crwth
 crwths
 crzette
 CS
-cs.
+cs
 CSA
 CSAB
 CSACC
@@ -84032,7 +83941,7 @@ CSTC
 CSU
 csw
 CT
-ct.
+ct
 CTA
 CTC
 CTD
@@ -84087,10 +83996,10 @@ ctn
 CTNE
 CTO
 ctr
-ctr.
+ctr
 ctrl
 CTS
-cts.
+cts
 CTSS
 CTT
 CTTC
@@ -84932,7 +84841,7 @@ Cupuliferae
 cupuliferous
 cupuliform
 cur
-cur.
+cur
 cura
 Curaao
 curability
@@ -85741,7 +85650,7 @@ CWO
 cwrite
 CWRU
 cwt
-cwt.
+cwt
 CXI
 CZ
 Czajer
@@ -85773,7 +85682,7 @@ Czarra
 czars
 czarship
 Czech
-Czech.
+Czech
 Czechic
 Czechish
 Czechization
@@ -85791,7 +85700,7 @@ Czernowitz
 czigany
 Czstochowa
 Czur
-DdM.
+DdM
 DA
 daalder
 DAB
@@ -86354,7 +86263,7 @@ dayworker
 dayworks
 daywrit
 Dak
-Dak.
+Dak
 Dakar
 daker
 dakerhen
@@ -86673,7 +86582,7 @@ damsite
 damson
 damsons
 Dan
-Dan.
+Dan
 Dana
 Danaan
 Danae
@@ -87307,7 +87216,7 @@ dasturi
 DASWDT
 daswen
 DAT
-dat.
+dat
 DATA
 databank
 database
@@ -87664,7 +87573,7 @@ DCTN
 DCTS
 DCVO
 DD
-dd.
+dd
 DDA
 DDB
 DDC
@@ -87980,7 +87889,7 @@ Deaver
 deaves
 deaving
 Deb
-deb.
+deb
 debacchate
 debacle
 debacles
@@ -88211,7 +88120,7 @@ debuted
 debuting
 debuts
 DEC
-Dec.
+Dec
 decachord
 decad
 decadactylous
@@ -88469,7 +88378,7 @@ deccennia
 decciare
 decciares
 decd
-decd.
+decd
 decease
 deceased
 deceases
@@ -88776,7 +88685,7 @@ deckpipe
 decks
 deckswabber
 decl
-decl.
+decl
 declaim
 declaimant
 declaimed
@@ -89112,7 +89021,7 @@ decrepitness
 decrepitude
 decreptitude
 decresc
-decresc.
+decresc
 decrescence
 decrescendo
 decrescendos
@@ -89441,7 +89350,7 @@ deevilick
 deewan
 deewans
 def
-def.
+def
 deface
 defaceable
 defaced
@@ -89926,7 +89835,7 @@ defuzed
 defuzes
 defuzing
 deg
-deg.
+deg
 degage
 degame
 degames
@@ -90333,7 +90242,7 @@ deknight
 DeKoven
 Dekow
 Del
-Del.
+Del
 Dela
 delabialization
 delabialize
@@ -90840,7 +90749,7 @@ delving
 Delwin
 Delwyn
 Dem
-Dem.
+Dem
 Dema
 Demaggio
 demagnetisable
@@ -91536,7 +91445,7 @@ Demus
 Demuth
 demutization
 Den
-Den.
+Den
 Dena
 Denae
 denay
@@ -91773,7 +91682,7 @@ Dennisville
 Dennysville
 Dennstaedtia
 denom
-denom.
+denom
 denominable
 denominant
 denominate
@@ -91851,7 +91760,7 @@ densitometric
 Densmore
 densus
 Dent
-dent.
+dent
 dentagra
 dental
 dentale
@@ -92106,7 +92015,7 @@ deozonization
 deozonize
 deozonizer
 dep
-dep.
+dep
 depa
 depaganize
 depaint
@@ -92551,7 +92460,7 @@ depsid
 depside
 depsides
 dept
-dept.
+dept
 Deptford
 depth
 depthen
@@ -92615,7 +92524,7 @@ dequeued
 dequeues
 dequeuing
 Der
-der.
+der
 derabbinize
 deracialize
 deracinate
@@ -92750,7 +92659,7 @@ derisively
 derisiveness
 derisory
 deriv
-deriv.
+deriv
 derivability
 derivable
 derivably
@@ -93075,7 +92984,7 @@ desaurin
 desaurine
 Desberg
 desc
-desc.
+desc
 descale
 descaled
 descaling
@@ -94108,7 +94017,7 @@ Deus
 deusan
 Deusdedit
 Deut
-Deut.
+Deut
 deutencephalic
 deutencephalon
 deuteragonist
@@ -94812,7 +94721,7 @@ dhuti
 dhutis
 DI
 Dy
-di.
+di
 DIA
 diabantite
 diabase
@@ -94974,7 +94883,7 @@ diaeresis
 diaeretic
 diaetetae
 diag
-diag.
+diag
 diagenesis
 diagenetic
 diagenetically
@@ -95053,7 +94962,7 @@ diakonika
 diakonikon
 DIAL
 Dyal
-dial.
+dial
 dialcohol
 dialdehyde
 dialect
@@ -95170,7 +95079,7 @@ dials
 dialup
 dialuric
 diam
-diam.
+diam
 diamagnet
 diamagnetic
 diamagnetically
@@ -95865,7 +95774,7 @@ dicrotism
 dicrotous
 Dicruridae
 dict
-dict.
+dict
 dicta
 Dictaen
 dictagraph
@@ -96230,7 +96139,7 @@ Difda
 Dyfed
 diferrion
 diff
-diff.
+diff
 diffame
 diffareation
 diffarreation
@@ -96347,7 +96256,7 @@ DIFMOS
 diformin
 difunctional
 dig
-dig.
+dig
 Dygal
 Dygall
 digallate
@@ -96832,7 +96741,7 @@ diluvium
 diluviums
 Dilworth
 DIM
-dim.
+dim
 DiMaggio
 dimagnesic
 dimane
@@ -97022,7 +96931,7 @@ dimwittedly
 dimwittedness
 DIN
 dyn
-Din.
+Din
 Dina
 Dyna
 dynactinometer
@@ -97563,7 +97472,7 @@ dipyre
 dipyrenous
 dipyridyl
 dipl
-dipl.
+dipl
 Diplacanthidae
 Diplacanthus
 diplacuses
@@ -97830,7 +97739,7 @@ dipware
 diquat
 diquats
 DIR
-dir.
+dir
 Dira
 Dirac
 diradiation
@@ -98323,7 +98232,7 @@ disbursing
 disburthen
 disbutton
 disc
-disc.
+disc
 discabinet
 discage
 discal
@@ -100804,7 +100713,7 @@ dissuited
 dissunder
 dissweeten
 dist
-dist.
+dist
 distad
 distaff
 distaffs
@@ -100996,7 +100905,7 @@ distortions
 distortive
 distorts
 distr
-distr.
+distr
 distract
 distracted
 distractedly
@@ -101340,7 +101249,7 @@ Dyushambe
 diuturnal
 diuturnity
 DIV
-div.
+div
 diva
 divagate
 divagated
@@ -101690,7 +101599,7 @@ DJS
 DJT
 Djuka
 DK
-dk.
+dk
 dkg
 dkl
 dkm
@@ -101707,12 +101616,12 @@ DLL
 DLO
 DLP
 dlr
-dlr.
+dlr
 DLS
 DLTU
 DLUPG
 dlvy
-dlvy.
+dlvy
 DM
 DMA
 dmarche
@@ -101759,7 +101668,7 @@ DNR
 DNS
 DNX
 DO
-do.
+do
 DOA
 doab
 doability
@@ -101823,7 +101732,7 @@ Dobuans
 dobule
 dobzhansky
 DOC
-doc.
+doc
 Docena
 docent
 docents
@@ -102344,7 +102253,7 @@ dokimastic
 Dokmarok
 Doko
 Dol
-dol.
+dol
 Dola
 dolabra
 dolabrate
@@ -102553,7 +102462,7 @@ dolts
 dolus
 dolven
 dom
-Dom.
+Dom
 domable
 domage
 Domagk
@@ -103948,7 +103857,7 @@ doxologized
 doxologizing
 doxorubicin
 doz
-doz.
+doz
 doze
 dozed
 dozen
@@ -103989,13 +103898,13 @@ DPP
 DPS
 DPSK
 dpt
-dpt.
+dpt
 DPW
 DQ
 DQDB
 DQL
 DR
-Dr.
+Dr
 drab
 Draba
 drabant
@@ -105362,7 +105271,7 @@ dtset
 DTSS
 DTU
 DU
-Du.
+Du
 DUA
 duad
 duadic
@@ -106202,7 +106111,7 @@ duotriacontane
 duotriode
 duoviri
 dup
-dup.
+dup
 dupability
 dupable
 Dupaix
@@ -106292,7 +106201,7 @@ Duquesne
 Duquette
 Duquoin
 Dur
-Dur.
+Dur
 dura
 durability
 durabilities
@@ -106654,7 +106563,7 @@ dwt
 DX
 DXT
 DZ
-dz.
+dz
 Dzaudzhikau
 dzeren
 dzerin
@@ -106673,7 +106582,7 @@ Dzungaria
 E
 E911
 EA
-ea.
+ea
 EAA
 eably
 eaceworm
@@ -107233,7 +107142,7 @@ ecchondrotome
 eccyclema
 eccyesis
 Eccl
-eccl.
+eccl
 Eccles
 ecclesia
 ecclesiae
@@ -107263,7 +107172,7 @@ ecclesiologically
 ecclesiologist
 ecclesiophobia
 Ecclus
-Ecclus.
+Ecclus
 ECCM
 eccoprotic
 eccoproticophoric
@@ -107513,7 +107422,7 @@ ecodeme
 ecofreak
 ecoid
 ecol
-ecol.
+ecol
 Ecole
 ecoles
 ecology
@@ -107526,7 +107435,7 @@ ecologists
 ECOM
 ecomomist
 econ
-econ.
+econ
 Econah
 economese
 econometer
@@ -107785,7 +107694,7 @@ ectrotic
 ecttypal
 ECU
 Ecua
-Ecua.
+Ecua
 Ecuador
 Ecuadoran
 Ecuadorean
@@ -107818,7 +107727,7 @@ eczematoid
 eczematosis
 eczematous
 ed
-ed.
+ed
 EDA
 EDAC
 edacious
@@ -108012,7 +107921,7 @@ edingtonite
 Edirne
 Edison
 edit
-edit.
+edit
 Edita
 editable
 edital
@@ -108113,7 +108022,7 @@ EDTCC
 Eduard
 Eduardo
 educ
-educ.
+educ
 Educabilia
 educabilian
 educability
@@ -108484,7 +108393,7 @@ efts
 eftsoon
 eftsoons
 EG
-Eg.
+Eg
 EGA
 egad
 Egadi
@@ -109412,7 +109321,7 @@ elechi
 elecive
 elecives
 elect
-elect.
+elect
 electability
 electable
 electant
@@ -109944,7 +109853,7 @@ elektra
 Elektron
 elelments
 elem
-elem.
+elem
 eleme
 element
 elemental
@@ -110283,7 +110192,7 @@ elixir
 elixirs
 elixiviate
 Eliz
-Eliz.
+Eliz
 Eliza
 Elizabet
 Elizabeth
@@ -111123,7 +111032,7 @@ embryographic
 embryoid
 embryoism
 embryol
-embryol.
+embryol
 embryology
 embryologic
 embryological
@@ -111577,7 +111486,7 @@ emotivism
 emotivity
 emove
 EMP
-Emp.
+Emp
 empacket
 empaestic
 empair
@@ -112029,7 +111938,7 @@ enbranglement
 enbrave
 enbusshe
 enc
-enc.
+enc
 encadre
 encaenia
 encage
@@ -112241,7 +112150,7 @@ enchoric
 enchronicle
 enchurch
 ency
-ency.
+ency
 encia
 encyc
 encycl
@@ -112312,7 +112221,7 @@ encysts
 encitadel
 Encke
 encl
-encl.
+encl
 enclaret
 enclasp
 enclasped
@@ -113246,7 +113155,7 @@ enfuddle
 enfume
 enfurrow
 Eng
-Eng.
+Eng
 Engadine
 engage
 engaged
@@ -113306,7 +113215,7 @@ engilded
 engilding
 engilds
 engin
-engin.
+engin
 engine
 engined
 engineer
@@ -113407,7 +113316,7 @@ engouement
 engouled
 engoument
 engr
-engr.
+engr
 engrace
 engraced
 Engracia
@@ -113619,7 +113528,7 @@ enkolpia
 enkolpion
 enkraal
 enl
-enl.
+enl
 enlace
 enlaced
 enlacement
@@ -113956,7 +113865,7 @@ enround
 enruin
 enrut
 ENS
-Ens.
+Ens
 ensafe
 ensaffron
 ensaint
@@ -114541,7 +114450,7 @@ entomofauna
 entomogenous
 entomoid
 entomol
-entomol.
+entomol
 entomolegist
 entomolite
 entomology
@@ -115026,7 +114935,7 @@ Eozoic
 eozoon
 eozoonal
 EP
-Ep.
+Ep
 EPA
 epacmaic
 epacme
@@ -115146,7 +115055,7 @@ epexegetic
 epexegetical
 epexegetically
 Eph
-Eph.
+Eph
 epha
 ephah
 ephahs
@@ -115723,7 +115632,7 @@ epipelagic
 epiperipheral
 epipetalous
 Epiph
-Epiph.
+Epiph
 Epiphany
 Epiphania
 epiphanic
@@ -115826,7 +115735,7 @@ epirrhematic
 epirrheme
 Epirus
 Epis
-Epis.
+Epis
 episarcine
 episarkine
 Episc
@@ -116246,7 +116155,7 @@ epuration
 EPW
 Epworth
 EQ
-eq.
+eq
 eqpt
 equability
 equabilities
@@ -116515,7 +116424,7 @@ equities
 equitist
 equitriangular
 equiv
-equiv.
+equiv
 equivale
 equivalence
 equivalenced
@@ -117547,7 +117456,7 @@ escutcheoned
 escutcheons
 escutellate
 ESD
-Esd.
+Esd
 ESDI
 Esdraelon
 esdragol
@@ -117691,7 +117600,7 @@ esotropia
 esotropic
 Esox
 ESP
-esp.
+esp
 espace
 espacement
 espada
@@ -117784,7 +117693,7 @@ esprove
 ESPS
 espundia
 Esq
-Esq.
+Esq
 esquamate
 esquamulose
 esque
@@ -117896,7 +117805,7 @@ Essonne
 essorant
 ESSX
 est
-est.
+est
 Esta
 estab
 estable
@@ -117991,7 +117900,7 @@ Estes
 Estevan
 estevin
 Esth
-Esth.
+Esth
 Esthacyte
 esthematology
 Esther
@@ -118195,7 +118104,7 @@ etatisms
 etatist
 etatists
 ETC
-etc.
+etc
 etcetera
 etceteras
 etch
@@ -118252,7 +118161,7 @@ etesians
 ETF
 ETFD
 eth
-Eth.
+Eth
 ethal
 ethaldehyde
 ethambutol
@@ -118522,7 +118431,7 @@ ethnohistoric
 ethnohistorical
 ethnohistorically
 ethnol
-ethnol.
+ethnol
 ethnolinguist
 ethnolinguistic
 ethnolinguistics
@@ -119235,7 +119144,7 @@ eupsychics
 Euptelea
 Eupterotidae
 Eur
-Eur.
+Eur
 Eurafric
 Eurafrican
 Euramerican
@@ -120027,7 +119936,7 @@ ewry
 EWS
 ewte
 Ex
-Ex.
+Ex
 exacerbate
 exacerbated
 exacerbates
@@ -120195,7 +120104,7 @@ exauthorate
 exauthorize
 exauthorizeexc
 Exc
-Exc.
+Exc
 excalate
 excalation
 excalcarate
@@ -120315,7 +120224,7 @@ excessiveness
 excessman
 excessmen
 exch
-exch.
+exch
 exchange
 exchangeability
 exchangeable
@@ -120403,7 +120312,7 @@ excitosecretory
 excitovascular
 excitron
 excl
-excl.
+excl
 exclaim
 exclaimed
 exclaimer
@@ -120608,7 +120517,7 @@ exdie
 exdividend
 exeat
 exec
-exec.
+exec
 execeptional
 execrable
 execrableness
@@ -121013,7 +120922,7 @@ exoculated
 exoculating
 exoculation
 Exod
-Exod.
+Exod
 exode
 exoderm
 exodermal
@@ -121230,7 +121139,7 @@ exotropia
 exotropic
 exotropism
 exp
-exp.
+exp
 expalpate
 expand
 expandability
@@ -121796,7 +121705,7 @@ exquisitive
 exquisitively
 exquisitiveness
 exr
-exr.
+exr
 exradio
 exradius
 exrupeal
@@ -121878,7 +121787,7 @@ exsurge
 exsurgent
 exsuscitate
 ext
-ext.
+ext
 exta
 extacie
 extance
@@ -122579,7 +122488,7 @@ exuvium
 Exxon
 exzodiacal
 Ez
-Ez.
+Ez
 ezan
 Ezana
 Ezar
@@ -122591,7 +122500,7 @@ ezba
 Ezechias
 Ezechiel
 Ezek
-Ezek.
+Ezek
 Ezekiel
 Ezel
 Ezequiel
@@ -122604,7 +122513,7 @@ Ezra
 Ezri
 Ezzard
 Ezzo
-FS.
+FS
 FA
 FAA
 FAAAS
@@ -122697,7 +122606,7 @@ fabulously
 fabulousness
 faburden
 fac
-fac.
+fac
 facadal
 facade
 facaded
@@ -123454,7 +123363,7 @@ falutin
 falx
 Falzetta
 FAM
-fam.
+fam
 Fama
 famacide
 Famagusta
@@ -124246,7 +124155,7 @@ fatefulness
 fatelike
 Fates
 fath
-fath.
+fath
 fathead
 fatheaded
 fatheadedly
@@ -124787,7 +124696,7 @@ feazes
 feazing
 feazings
 FEB
-Feb.
+Feb
 Febe
 febres
 febricant
@@ -124813,7 +124722,7 @@ Februaries
 Februarius
 februation
 FEC
-fec.
+fec
 fecal
 fecalith
 fecaloid
@@ -124858,7 +124767,7 @@ fecundity
 fecundities
 fecundize
 FED
-Fed.
+Fed
 fedayee
 Fedayeen
 Fedak
@@ -125261,7 +125170,7 @@ Felup
 felwort
 felworts
 FEM
-fem.
+fem
 FEMA
 female
 femalely
@@ -126158,7 +126067,7 @@ fezzes
 fezzy
 Fezziwig
 FF
-ff.
+ff
 FFA
 FFC
 FFI
@@ -126716,7 +126625,7 @@ fiftieths
 fiftyfold
 fiftypenny
 fig
-fig.
+fig
 figary
 figaro
 figbird
@@ -127166,7 +127075,7 @@ fimicolous
 FIMS
 FIN
 Fyn
-Fin.
+Fin
 Fina
 finable
 finableness
@@ -128081,9 +127990,9 @@ fjorded
 fjords
 Fjorgyn
 FL
-Fl.
+Fl
 Fla
-Fla.
+Fla
 flab
 flabbella
 flabbergast
@@ -128738,7 +128647,7 @@ FLB
 flche
 flchette
 fld
-fld.
+fld
 fldxt
 flea
 fleabag
@@ -128874,7 +128783,7 @@ fleishig
 Fleisig
 fleysome
 Flem
-Flem.
+Flem
 fleme
 flemer
 Fleming
@@ -129494,7 +129403,7 @@ flopping
 FLOPS
 flopwing
 Flor
-flor.
+flor
 Flora
 florae
 Floral
@@ -130188,7 +130097,7 @@ fluxroot
 fluxure
 fluxweed
 FM
-fm.
+fm
 FMAC
 FMB
 FMC
@@ -130207,7 +130116,7 @@ fnese
 FNMA
 FNPA
 FO
-fo.
+fo
 FOAC
 Foah
 foal
@@ -130431,7 +130340,7 @@ Fokine
 Fokker
 Fokos
 fol
-fol.
+fol
 Fola
 folacin
 folacins
@@ -130565,7 +130474,7 @@ Folkvangr
 folkway
 folkways
 foll
-foll.
+foll
 Follansbee
 foller
 folles
@@ -130937,7 +130846,7 @@ foppishness
 fops
 fopship
 FOR
-for.
+for
 fora
 forage
 foraged
@@ -132326,7 +132235,7 @@ forswore
 forsworn
 forswornness
 Fort
-fort.
+fort
 Forta
 fortake
 Fortaleza
@@ -132892,7 +132801,7 @@ fpsps
 FPU
 FQDN
 FR
-Fr.Fraase
+FrFraase
 frab
 frabbit
 frabjous
@@ -133728,7 +133637,7 @@ frenzying
 frenzily
 Freon
 freq
-freq.
+freq
 frequence
 frequency
 frequencies
@@ -133837,7 +133746,7 @@ FRG
 FRGS
 Fri
 Fry
-Fri.
+Fri
 Fria
 friability
 friable
@@ -134099,7 +134008,7 @@ frippery
 fripperies
 frippet
 Fris
-Fris.
+Fris
 frisado
 Frisbee
 frisbees
@@ -134581,14 +134490,14 @@ frozenness
 FRPG
 FRR
 FRS
-Frs.
+Frs
 frsiket
 frsikets
 FRSL
 FRSS
 Frst
 frt
-frt.
+frt
 FRU
 frubbish
 fruchtschiefer
@@ -134794,14 +134703,14 @@ fstore
 FSU
 FSW
 FT
-ft.
+ft
 FT1
 FTAM
 FTC
 FTE
 FTG
 fth
-fth.
+fth
 fthm
 FTL
 ftncmd
@@ -135485,7 +135394,7 @@ funt
 Funtumia
 Fuquay
 Fur
-fur.
+fur
 furacana
 furacious
 furaciousness
@@ -135865,7 +135774,7 @@ fusuma
 fusure
 Fusus
 fut
-fut.
+fut
 Futabatei
 futchel
 futchell
@@ -135953,7 +135862,7 @@ FV
 FW
 FWA
 FWD
-fwd.
+fwd
 fwelling
 FWHM
 FWIW
@@ -135962,7 +135871,7 @@ fz
 FZS
 G
 GA
-Ga.
+Ga
 Gaal
 GAAP
 GAAS
@@ -136373,7 +136282,7 @@ Gajcur
 Gajda
 Gakona
 Gal
-Gal.
+Gal
 Gala
 galabeah
 galabia
@@ -138571,7 +138480,7 @@ Gawra
 gawsy
 gawsie
 gaz
-gaz.
+gaz
 Gaza
 gazabo
 gazaboes
@@ -138673,7 +138582,7 @@ Gdns
 GDP
 GDR
 GDS
-gds.
+gds
 GE
 gea
 Geadephaga
@@ -139127,7 +139036,7 @@ gemutlich
 Gemutlichkeit
 gemwork
 gen
-Gen.
+Gen
 Gena
 genae
 genal
@@ -139153,7 +139062,7 @@ genderless
 genders
 gene
 geneal
-geneal.
+geneal
 genealogy
 genealogic
 genealogical
@@ -139370,7 +139279,7 @@ Genista
 genistein
 genistin
 genit
-genit.
+genit
 genital
 genitalia
 genitalial
@@ -139398,7 +139307,7 @@ genizah
 genizero
 Genk
 Genl
-Genl.
+Genl
 Genna
 Gennaro
 Gennevilliers
@@ -139610,7 +139519,7 @@ geocoronium
 geocratic
 geocronite
 geod
-geod.
+geod
 geodaesia
 geodal
 geode
@@ -139649,7 +139558,7 @@ geoffroyin
 geoffroyine
 geoform
 geog
-geog.
+geog
 geogen
 geogenesis
 geogenetic
@@ -139689,7 +139598,7 @@ geoidal
 geoids
 geoisotherm
 geol
-geol.
+geol
 geolatry
 GeolE
 geolinguistics
@@ -139711,7 +139620,7 @@ geologize
 geologized
 geologizing
 geom
-geom.
+geom
 geomagnetic
 geomagnetically
 geomagnetician
@@ -139920,7 +139829,7 @@ Gepidae
 gepoun
 Gepp
 Ger
-Ger.
+Ger
 Gera
 geraera
 gerah
@@ -140559,7 +140468,7 @@ Ghuz
 GHZ
 GI
 Gy
-gi.
+gi
 Giacamo
 Giacinta
 Giacobo
@@ -141921,7 +141830,7 @@ Gk
 GKS
 GKSM
 Gl
-gl.
+gl
 Glaab
 glabbella
 glabella
@@ -142998,7 +142907,7 @@ gloriously
 gloriousness
 Glos
 gloss
-gloss.
+gloss
 Glossa
 glossae
 glossagra
@@ -143184,7 +143093,7 @@ glozes
 glozing
 glozingly
 glt
-glt.
+glt
 glub
 glucaemia
 glucagon
@@ -144897,7 +144806,7 @@ Gotebo
 Goteborg
 goter
 Goth
-Goth.
+Goth
 Gotha
 Gotham
 Gothamite
@@ -145045,7 +144954,7 @@ gouvernante
 gouvernantes
 Gouverneur
 Gov
-Gov.
+Gov
 Gove
 govern
 governability
@@ -145078,7 +144987,7 @@ governorship
 governorships
 governs
 Govt
-Govt.
+Govt
 Gow
 gowan
 Gowanda
@@ -145141,7 +145050,7 @@ GPSS
 GPU
 GQ
 GR
-Gr.
+Gr
 gra
 Graaf
 Graafian
@@ -145436,7 +145345,7 @@ Grallina
 gralline
 gralloch
 gram
-gram.
+gram
 grama
 gramaphone
 gramary
@@ -147088,7 +146997,7 @@ grizzliness
 grizzling
 Grnewald
 GRO
-gro.
+gro
 groan
 groaned
 groaner
@@ -147701,11 +147610,11 @@ GSFC
 GSR
 GSTS
 GT
-gt.
+gt
 Gta
 GTC
 gtd
-gtd.
+gtd
 GTE
 gteau
 Gteborg
@@ -147848,7 +147757,7 @@ Guapor
 Guapore
 Guaque
 guar
-guar.
+guar
 guara
 guarabu
 guaracha
@@ -147945,7 +147854,7 @@ guasa
 Guastalline
 Guasti
 Guat
-Guat.
+Guat
 guatambu
 Guatemala
 Guatemalan
@@ -148290,7 +148199,7 @@ Guimond
 guimpe
 guimpes
 Guin
-Guin.
+Guin
 Guinda
 guinde
 Guinea
@@ -149021,7 +148930,7 @@ haars
 Haas
 Haase
 Hab
-Hab.
+Hab
 Haba
 Habab
 Habacuc
@@ -152549,7 +152458,7 @@ HCR
 HCSDS
 HCTDS
 HD
-hd.
+hd
 HDA
 hdbk
 HDBV
@@ -152559,7 +152468,7 @@ hdkf
 HDL
 HDLC
 hdqrs
-hdqrs.
+hdqrs
 Hdr
 HDTV
 hdwe
@@ -153043,7 +152952,7 @@ heavyweight
 heavyweights
 heazy
 Heb
-Heb.
+Heb
 hebamic
 Hebbe
 Hebbel
@@ -155176,7 +155085,7 @@ Hepza
 Hepzi
 Hepzibah
 her
-her.
+her
 HERA
 Heraclea
 Heraclean
@@ -155689,7 +155598,7 @@ heroship
 herotheism
 heroworshipper
 herp
-herp.
+herp
 herpangina
 herpes
 herpeses
@@ -156622,7 +156531,7 @@ Hezekiah
 Hezron
 Hezronites
 HF
-hf.
+hf
 HFDF
 HFE
 HFS
@@ -156630,7 +156539,7 @@ HG
 HGA
 hgrnotine
 hgt
-hgt.
+hgt
 HGV
 hgwy
 HH
@@ -158324,7 +158233,7 @@ Hinch
 Hinckley
 Hind
 hynd
-Hind.
+Hind
 Hinda
 Hynda
 Hindarfjall
@@ -158495,7 +158404,7 @@ hyothyroid
 Hyozo
 hip
 hyp
-hyp.
+hyp
 hypabyssal
 hypabyssally
 hypacusia
@@ -159993,7 +159902,7 @@ hypotenusal
 hypotenuse
 hypotenuses
 hypoth
-hypoth.
+hypoth
 hypothalami
 hypothalamic
 hypothalamus
@@ -160504,7 +160413,7 @@ hyssops
 Hyssopus
 hissproof
 hist
-hist.
+hist
 Histadrut
 histamin
 histaminase
@@ -162344,7 +162253,7 @@ honcho
 honchoed
 honchos
 Hond
-Hond.
+Hond
 Honda
 hondas
 hondle
@@ -162848,7 +162757,7 @@ hopvine
 Hopwood
 Hoquiam
 hor
-hor.
+hor
 hora
 Horace
 Horacio
@@ -163042,7 +162951,7 @@ horographer
 horography
 horokaka
 horol
-horol.
+horol
 horologe
 horologer
 horologes
@@ -163248,7 +163157,7 @@ horste
 horstes
 horsts
 Hort
-hort.
+hort
 Horta
 hortation
 hortative
@@ -163287,7 +163196,7 @@ Horvitz
 Horwath
 Horwitz
 Hos
-Hos.
+Hos
 Hosackia
 hosanna
 hosannaed
@@ -163323,7 +163232,7 @@ Hoskinson
 Hoskinston
 Hosmer
 hosp
-hosp.
+hosp
 Hospers
 hospice
 hospices
@@ -163819,7 +163728,7 @@ HPO
 HPPA
 HQ
 HR
-hr.
+hr
 Hradcany
 Hrault
 Hrdlicka
@@ -163859,7 +163768,7 @@ HST
 Hsu
 hsuan
 HT
-ht.
+ht
 htel
 Htindaw
 Htizwe
@@ -164524,7 +164433,7 @@ Huneker
 hunfysh
 Hunfredo
 Hung
-Hung.
+Hung
 hungar
 Hungary
 Hungaria
@@ -164943,10 +164852,10 @@ hwt
 Hwu
 HZ
 i
-i.
+i
 ia
 YA
-Ia.
+Ia
 IAA
 Yaakov
 IAB
@@ -165517,7 +165426,7 @@ Yazdegerdian
 Yazoo
 IB
 YB
-ib.
+ib
 IBA
 Ibad
 Ibada
@@ -165553,7 +165462,7 @@ ibices
 Ibycter
 Ibycus
 ibid
-ibid.
+ibid
 ibidem
 Ibididae
 Ibidinae
@@ -165612,7 +165521,7 @@ ICCC
 ICCCM
 ICD
 ice
-Ice.
+Ice
 iceberg
 icebergs
 iceblink
@@ -165640,7 +165549,7 @@ icehouses
 icekhana
 icekhanas
 Icel
-Icel.
+Icel
 Iceland
 Icelander
 icelanders
@@ -165748,7 +165657,7 @@ ichthyoid
 ichthyoidal
 Ichthyoidea
 Ichthyol
-ichthyol.
+ichthyol
 ichthyolatry
 ichthyolatrous
 ichthyolite
@@ -165969,7 +165878,7 @@ ictus
 ictuses
 id
 yd
-id.
+id
 IDA
 Idabel
 idae
@@ -166864,7 +166773,7 @@ iglus
 IGM
 IGMP
 ign
-ign.
+ign
 Ignace
 Ignacia
 Ignacio
@@ -167227,7 +167136,7 @@ Ilkeston
 Ilkley
 ilks
 Ill
-Ill.
+Ill
 Illa
 Ylla
 illabile
@@ -167469,7 +167378,7 @@ illusory
 illusorily
 illusoriness
 illust
-illust.
+illust
 illustrable
 illustratable
 illustrate
@@ -167801,7 +167710,7 @@ iminourea
 Imipramine
 Ymir
 imit
-imit.
+imit
 imitability
 imitable
 imitableness
@@ -168215,7 +168124,7 @@ Imola
 Imolinda
 imonium
 IMP
-Imp.
+Imp
 impacability
 impacable
 impack
@@ -168485,7 +168394,7 @@ impennous
 impent
 impeople
 imper
-imper.
+imper
 imperance
 imperant
 Imperata
@@ -168526,7 +168435,7 @@ imperdible
 imperence
 imperent
 imperf
-imperf.
+imperf
 imperfect
 imperfectability
 imperfected
@@ -168610,7 +168519,7 @@ impermixt
 impermutable
 imperperia
 impers
-impers.
+impers
 imperscriptible
 imperscrutable
 imperseverant
@@ -168711,7 +168620,7 @@ impeturbability
 impetus
 impetuses
 impf
-impf.
+impf
 Imphal
 imphee
 imphees
@@ -169351,7 +169260,7 @@ imputrescible
 imputrid
 imputting
 impv
-impv.
+impv
 Imray
 Imre
 Imroz
@@ -169370,7 +169279,7 @@ IMunE
 imvia
 in
 yn
-in.
+in
 ina
 inability
 inabilities
@@ -169702,7 +169611,7 @@ inburst
 inbursts
 inbush
 INC
-Inc.
+Inc
 Inca
 Incabloc
 incage
@@ -170011,7 +169920,7 @@ incivilization
 incivilly
 incivism
 incl
-incl.
+incl
 inclamation
 inclasp
 inclasped
@@ -170509,7 +170418,7 @@ incourse
 incourteous
 incourteously
 incr
-incr.
+incr
 incra
 incrash
 incrassate
@@ -170727,7 +170636,7 @@ incut
 incute
 incutting
 IND
-Ind.
+Ind
 indaba
 indabas
 indaconitin
@@ -170799,7 +170708,7 @@ indecorum
 indeed
 indeedy
 indef
-indef.
+indef
 indefaceable
 indefatigability
 indefatigable
@@ -171007,7 +170916,7 @@ indians
 Indiantown
 indiary
 Indic
-indic.
+indic
 indicable
 indical
 indican
@@ -171436,7 +171345,7 @@ indubitably
 indubitate
 indubitatively
 induc
-induc.
+induc
 induce
 induceable
 induced
@@ -171921,7 +171830,7 @@ inextricably
 Inez
 Ynez
 Inf
-Inf.
+Inf
 inface
 infair
 infall
@@ -172172,7 +172081,7 @@ infiltrators
 infima
 infimum
 infin
-infin.
+infin
 infinitant
 infinitary
 infinitarily
@@ -172999,7 +172908,7 @@ inirritative
 inisle
 inissuable
 init
-init.
+init
 inital
 initial
 initialed
@@ -173454,7 +173363,7 @@ inordinately
 inordinateness
 inordination
 inorg
-inorg.
+inorg
 inorganic
 inorganical
 inorganically
@@ -173604,7 +173513,7 @@ inrush
 inrushes
 inrushing
 INS
-ins.
+ins
 insabbatist
 insack
 insafety
@@ -173988,7 +173897,7 @@ insouled
 insouling
 insouls
 insp
-insp.
+insp
 inspake
 inspan
 inspanned
@@ -174066,7 +173975,7 @@ inspoke
 inspoken
 inspreith
 Inst
-inst.
+inst
 instability
 instabilities
 instable
@@ -174206,7 +174115,7 @@ instonement
 instop
 instore
 instr
-instr.
+instr
 instransitive
 instratified
 instreaming
@@ -174430,7 +174339,7 @@ inswept
 inswing
 inswinger
 Int
-int.
+int
 inta
 intablature
 intabulate
@@ -174620,7 +174529,7 @@ intenerating
 inteneration
 intenible
 intens
-intens.
+intens
 intensate
 intensation
 intensative
@@ -174668,7 +174577,7 @@ intentness
 intentnesses
 intents
 inter
-inter.
+inter
 interabang
 interabsorption
 interacademic
@@ -175361,7 +175270,7 @@ interiors
 interirrigation
 interisland
 interj
-interj.
+interj
 interjacence
 interjacency
 interjacent
@@ -175739,7 +175648,7 @@ internals
 internarial
 internasal
 internat
-internat.
+internat
 internation
 International
 Internationale
@@ -176101,7 +176010,7 @@ interriven
 interroad
 interrobang
 interrog
-interrog.
+interrog
 interrogability
 interrogable
 interrogant
@@ -176706,7 +176615,7 @@ intoxicatively
 intoxicator
 intoxicators
 intr
-intr.
+intr
 intra
 intraabdominal
 intraarterial
@@ -176853,7 +176762,7 @@ intranidal
 intranquil
 intranquillity
 intrans
-intrans.
+intrans
 intranscalency
 intranscalent
 intransferable
@@ -177047,7 +176956,7 @@ intrinsically
 intrinsicalness
 intrinsicate
 intro
-intro.
+intro
 introactive
 introceptive
 introconversion
@@ -177299,7 +177208,7 @@ inutilities
 inutilized
 inutterable
 inv
-inv.
+inv
 invaccinate
 invaccination
 invadable
@@ -177670,7 +177579,7 @@ involvers
 involves
 involving
 invt
-invt.
+invt
 invulgar
 invulnerability
 invulnerable
@@ -178318,7 +178227,7 @@ Iquique
 Iquitos
 IR
 yr
-Ir.
+Ir
 IRA
 Iraan
 iracund
@@ -178332,7 +178241,7 @@ Iraki
 Irakis
 Iraklion
 Iran
-Iran.
+Iran
 Irani
 Iranian
 iranians
@@ -178369,7 +178278,7 @@ irchin
 IRD
 IRDS
 IRE
-Ire.
+Ire
 ired
 Iredale
 Iredell
@@ -178772,7 +178681,7 @@ irrefutable
 irrefutableness
 irrefutably
 irreg
-irreg.
+irreg
 irregardless
 irregeneracy
 irregenerate
@@ -179044,7 +178953,7 @@ irruptively
 irrupts
 IRS
 YRS
-yrs.
+yrs
 IRSG
 IRTF
 Irtish
@@ -179065,7 +178974,7 @@ Irwinn
 Irwinville
 is
 ys
-Is.
+Is
 ISA
 Isaac
 Isaacs
@@ -180065,7 +179974,7 @@ istana
 Istanbul
 ister
 Isth
-Isth.
+Isth
 isthm
 isthmal
 isthmectomy
@@ -180122,7 +180031,7 @@ Itagaki
 itai
 Itajai
 Ital
-Ital.
+Ital
 Itala
 Itali
 Italy
@@ -180393,7 +180302,7 @@ Yuga
 yugada
 yugas
 Yugo
-Yugo.
+Yugo
 Yugoslav
 Yugoslavia
 Yugoslavian
@@ -180653,9 +180562,9 @@ izzard
 izzards
 izzat
 Izzy
-JV.
+JV
 JA
-Ja.
+Ja
 Jaal
 Jaala
 Jaalin
@@ -181245,7 +181154,7 @@ jalousing
 jalpaite
 jalur
 Jam
-Jam.
+Jam
 jama
 Jamaal
 jamadar
@@ -181340,7 +181249,7 @@ jamtland
 Jamul
 jamwood
 Jan
-Jan.
+Jan
 Jana
 Janacek
 Janaya
@@ -181460,7 +181369,7 @@ Janus
 Januslike
 jaob
 Jap
-Jap.
+Jap
 japaconin
 japaconine
 japaconitin
@@ -181670,7 +181579,7 @@ Jarvin
 Jarvis
 Jarvisburg
 Jas
-Jas.
+Jas
 Jascha
 Jase
 jasey
@@ -181784,7 +181693,7 @@ jaups
 Jaur
 Jaures
 Jav
-Jav.
+Jav
 Java
 Javahai
 Javakishvili
@@ -181893,7 +181802,7 @@ JCL
 JCR
 JCS
 jct
-jct.
+jct
 jctn
 JD
 Jdavie
@@ -182229,7 +182138,7 @@ Jequie
 jequirity
 jequirities
 Jer
-Jer.
+Jer
 Jerad
 Jerahmeel
 Jerahmeelites
@@ -182875,7 +182784,7 @@ jizya
 jizyah
 jizzen
 JJ
-JJ.
+JJ
 Jkping
 Jl
 JLE
@@ -183481,7 +183390,7 @@ Josephus
 Joser
 Joses
 Josh
-Josh.
+Josh
 joshed
 josher
 joshers
@@ -183566,7 +183475,7 @@ jouncing
 Joung
 Jounieh
 jour
-jour.
+jour
 Jourdain
 Jourdan
 Jourdanton
@@ -183681,7 +183590,7 @@ JP
 JPEG
 JPL
 Jr
-Jr.
+Jr
 JRC
 js
 Jsandye
@@ -183757,7 +183666,7 @@ juckies
 Jucuna
 jucundity
 JUD
-Jud.
+Jud
 Juda
 Judaea
 Judaean
@@ -183993,7 +183902,7 @@ juked
 Jukes
 juking
 Jul
-Jul.
+Jul
 julaceous
 Jule
 Julee
@@ -184106,7 +184015,7 @@ jumpsome
 jumpsuit
 jumpsuits
 Jun
-Jun.
+Jun
 Juna
 Junc
 Juncaceae
@@ -184296,7 +184205,7 @@ jurisdictionally
 jurisdictions
 jurisdictive
 jurisp
-jurisp.
+jurisp
 jurisprude
 jurisprudence
 jurisprudences
@@ -185146,7 +185055,7 @@ Kanosh
 Kanpur
 Kanred
 Kans
-Kans.
+Kans
 Kansa
 Kansan
 kansans
@@ -186877,7 +186786,7 @@ kexy
 Kezer
 KFT
 KG
-kg.
+kg
 KGB
 kgf
 kgr
@@ -187099,7 +187008,7 @@ Khwarazmian
 KHz
 KI
 KY
-Ky.
+Ky
 KIA
 kiaat
 kiabooca
@@ -188348,7 +188257,7 @@ KKK
 KKt
 KKtP
 kl
-kl.
+kl
 klaberjass
 Klabund
 klafter
@@ -188537,7 +188446,7 @@ kmet
 Kmmel
 kmole
 KN
-kn.
+kn
 knab
 knabble
 Knaben
@@ -188915,7 +188824,7 @@ Knoxville
 knoxvillite
 KNP
 Knt
-Knt.
+Knt
 knub
 knubby
 knubbier
@@ -189633,7 +189542,7 @@ KPO
 Kpuesi
 KQC
 KR
-kr.
+kr
 Kra
 kraal
 kraaled
@@ -189944,7 +189853,7 @@ ksi
 KSR
 KSU
 KT
-Kt.
+Kt
 KTB
 Kten
 kthibh
@@ -190311,7 +190220,7 @@ Laaland
 laang
 Laaspere
 LAB
-Lab.
+Lab
 labaara
 Labadie
 Labadieville
@@ -191423,7 +191332,7 @@ laloplegia
 Lalu
 Laluz
 LAM
-Lam.
+Lam
 LAMA
 Lamadera
 lamaic
@@ -192055,7 +191964,7 @@ Lanford
 Lanfranc
 Lanfri
 Lang
-lang.
+lang
 langaha
 Langan
 langarai
@@ -192942,7 +192851,7 @@ lasts
 lastspring
 Laszlo
 LAT
-Lat.
+Lat
 LATA
 Latah
 Latakia
@@ -193808,7 +193717,7 @@ Lazzaro
 lazzarone
 lazzaroni
 LB
-lb.
+lb
 Lbeck
 lbf
 LBHS
@@ -193847,7 +193756,7 @@ lcsymbol
 LCT
 LCVP
 LD
-Ld.
+Ld
 LDC
 LDEF
 Ldenscheid
@@ -193862,7 +193771,7 @@ LDS
 LDX
 le
 LEA
-lea.
+lea
 Leach
 leachability
 leachable
@@ -194288,7 +194197,7 @@ lecontite
 lecotropal
 LeCroy
 lect
-lect.
+lect
 lectern
 lecterns
 lecthi
@@ -194495,7 +194404,7 @@ Leftwich
 leftwing
 leftwinger
 leg
-leg.
+leg
 legacy
 legacies
 legal
@@ -195943,7 +195852,7 @@ Leuricus
 Leutze
 Leuven
 Lev
-Lev.
+Lev
 leva
 levade
 Levallois
@@ -196065,7 +195974,7 @@ Levis
 Levison
 Levisticum
 Levit
-Levit.
+Levit
 Levitan
 levitant
 levitate
@@ -196163,7 +196072,7 @@ Lewse
 lewth
 lewty
 lex
-lex.
+lex
 Lexa
 Lexell
 lexeme
@@ -196180,7 +196089,7 @@ lexicalic
 lexicality
 lexically
 lexicog
-lexicog.
+lexicog
 lexicographer
 lexicographers
 lexicography
@@ -196226,7 +196135,7 @@ LFACS
 LFS
 LFSA
 LG
-lg.
+lg
 LGA
 LGB
 LGBO
@@ -196234,7 +196143,7 @@ Lger
 LGk
 LGM
 lgth
-lgth.
+lgth
 LH
 Lhary
 Lhasa
@@ -196300,7 +196209,7 @@ Liatrice
 Liatris
 Lyautey
 Lib
-Lib.
+Lib
 Liba
 libament
 libaniferous
@@ -196855,7 +196764,7 @@ lieu
 lieue
 lieus
 Lieut
-Lieut.
+Lieut
 lieutenancy
 lieutenancies
 lieutenant
@@ -197719,7 +197628,7 @@ Limulus
 limurite
 Lin
 Lyn
-lin.
+lin
 Lina
 linable
 linac
@@ -197955,7 +197864,7 @@ Lineville
 linewalker
 linework
 ling
-ling.
+ling
 linga
 Lingayat
 Lingayata
@@ -198495,7 +198404,7 @@ Lipton
 lipuria
 lipwork
 liq
-liq.
+liq
 liquable
 liquamen
 liquate
@@ -198809,7 +198718,7 @@ Lisuarte
 Liszt
 Lisztian
 Lit
-lit.
+lit
 Lita
 Litae
 litai
@@ -198886,7 +198795,7 @@ literosity
 liters
 lites
 lith
-Lith.
+Lith
 Litha
 lithaemia
 lithaemic
@@ -198934,7 +198843,7 @@ lithium
 lithiums
 lithless
 litho
-litho.
+litho
 lithobiid
 Lithobiidae
 lithobioid
@@ -198997,7 +198906,7 @@ lithoidal
 lithoidite
 lithoing
 lithol
-lithol.
+lithol
 litholabe
 litholapaxy
 litholatry
@@ -200743,7 +200652,7 @@ lopsidednesses
 lopstick
 lopsticks
 loq
-loq.
+loq
 loquacious
 loquaciously
 loquaciousness
@@ -202375,7 +202284,7 @@ luteum
 luteway
 lutfisk
 Luth
-Luth.
+Luth
 Luthanen
 Luther
 Lutheran
@@ -202434,7 +202343,7 @@ luvs
 Luwana
 Luwian
 Lux
-Lux.
+Lux
 luxate
 luxated
 luxates
@@ -202591,7 +202500,7 @@ macaws
 Macbeth
 MACBS
 Macc
-Macc.
+Macc
 Maccabaeus
 maccabaw
 maccabaws
@@ -202622,7 +202531,7 @@ Macduff
 Mace
 macebearer
 Maced
-Maced.
+Maced
 macedoine
 Macedon
 Macedonia
@@ -202657,7 +202566,7 @@ Macflecknoe
 MacGregor
 MacGuiness
 Mach
-mach.
+mach
 Macha
 Machabees
 Machado
@@ -203152,7 +203061,7 @@ MAD
 Mada
 madafu
 Madag
-Madag.
+Madag
 Madagascan
 Madagascar
 Madagascarian
@@ -203426,7 +203335,7 @@ maftirs
 mafura
 mafurra
 MAG
-mag.
+mag
 Maga
 Magadhi
 magadis
@@ -205251,7 +205160,7 @@ Mamurius
 mamushi
 mamzer
 MAN
-Man.ozho
+Manozho
 manace
 manacing
 manacle
@@ -206161,7 +206070,7 @@ manueverable
 manuevered
 manuevers
 manuf
-manuf.
+manuf
 manufact
 manufaction
 manufactor
@@ -206312,7 +206221,7 @@ maquisard
 Maquoketa
 Maquon
 MAR
-Mar.
+Mar
 Mara
 Marabel
 Marabelle
@@ -206469,7 +206378,7 @@ Marcgravia
 Marcgraviaceae
 marcgraviaceous
 MArch
-March.
+March
 Marchak
 Marchal
 Marchall
@@ -206590,7 +206499,7 @@ Marfik
 marfire
 Marfrance
 marg
-marg.
+marg
 Marga
 margay
 margays
@@ -207552,7 +207461,7 @@ Masaris
 MASB
 Masbate
 MASC
-masc.
+masc
 Mascagni
 mascagnine
 mascagnite
@@ -208174,7 +208083,7 @@ matfellon
 matfelon
 matgrass
 math
-math.
+math
 matha
 Mathe
 mathematic
@@ -208364,7 +208273,7 @@ Matsuyama
 Matsumoto
 matsuri
 Matt
-Matt.
+Matt
 Matta
 Mattah
 mattamore
@@ -208665,7 +208574,7 @@ mawsie
 Mawson
 Mawworm
 Max
-max.
+max
 Maxa
 Maxama
 Maxantia
@@ -209121,7 +209030,7 @@ McWherter
 McWhorter
 McWilliams
 MD
-Md.
+Md
 MDACS
 MDAP
 MDAS
@@ -209149,7 +209058,7 @@ MDT
 MDU
 MDX
 ME
-Me.
+Me
 MEA
 meable
 meach
@@ -209366,7 +209275,7 @@ Meccano
 meccas
 Meccawee
 mech
-mech.
+mech
 mechael
 mechanal
 mechanality
@@ -209473,7 +209382,7 @@ mecums
 mecurial
 mecurialism
 MED
-med.
+med
 Meda
 medaillon
 medaka
@@ -209732,7 +209641,7 @@ medisection
 Medish
 Medism
 Medit
-Medit.
+Medit
 meditabund
 meditance
 meditant
@@ -210838,7 +210747,7 @@ Melvyn
 Melvina
 Melvindale
 mem
-mem.
+mem
 Member
 membered
 Memberg
@@ -212498,7 +212407,7 @@ mestranol
 Mesua
 Mesvinian
 MET
-met.
+met
 Meta
 metabases
 metabasis
@@ -212650,7 +212559,7 @@ Metairie
 metakinesis
 metakinetic
 metal
-metal.
+metal
 metalammonium
 metalanguage
 metalaw
@@ -212845,7 +212754,7 @@ metapepsis
 metapeptone
 metaperiodic
 metaph
-metaph.
+metaph
 metaphase
 Metaphen
 metaphenylene
@@ -213124,7 +213033,7 @@ meteoroid
 meteoroidal
 meteoroids
 meteorol
-meteorol.
+meteorol
 meteorolite
 meteorolitic
 meteorology
@@ -213702,7 +213611,7 @@ mibound
 mibs
 Mic
 myc
-Mic.
+Mic
 mica
 Myca
 micaceous
@@ -213776,7 +213685,7 @@ Mycetozoa
 mycetozoan
 mycetozoon
 Mich
-Mich.
+Mich
 Michabo
 Michabou
 Michael
@@ -213881,7 +213790,7 @@ mycohaemia
 mycohemia
 mycoid
 mycol
-mycol.
+mycol
 mycology
 mycologic
 mycological
@@ -214736,7 +214645,7 @@ micturition
 Miculek
 MID
 'mid
-Mid.
+Mid
 midafternoon
 Mydaidae
 midair
@@ -215248,7 +215157,7 @@ mikveh
 mikvehs
 mikvoth
 MIL
-mil.
+mil
 Mila
 Milaca
 milacre
@@ -215364,7 +215273,7 @@ miliolitic
 Milissa
 Milissent
 milit
-milit.
+milit
 militancy
 militancies
 militant
@@ -215929,7 +215838,7 @@ Mimus
 Mimusops
 mimzy
 MIN
-min.
+min
 Mina
 Myna
 Minabe
@@ -216037,7 +215946,7 @@ mineragraphy
 mineragraphic
 mineraiogic
 mineral
-mineral.
+mineral
 mineralise
 mineralised
 mineralising
@@ -216387,7 +216296,7 @@ minkish
 Minkopi
 minks
 Minn
-Minn.
+Minn
 Minna
 Minnaminnie
 Minne
@@ -217332,7 +217241,7 @@ misbuilt
 misbusy
 misbuttoned
 misc
-misc.
+misc
 miscal
 miscalculate
 miscalculated
@@ -218518,7 +218427,7 @@ misruly
 misruling
 misrun
 Miss
-Miss.
+Miss
 Missa
 missable
 missay
@@ -219036,7 +218945,7 @@ miterwort
 mites
 Mitford
 myth
-myth.
+myth
 mithan
 mither
 mithers
@@ -219449,13 +219358,13 @@ Mjico
 Mjollnir
 Mjolnir
 Mk
-mk.
+mk
 MKS
 mkt
-mkt.
+mkt
 MKTG
 ML
-ml.
+ml
 MLA
 Mlaga
 mlange
@@ -219484,7 +219393,7 @@ MLV
 MLW
 mlx
 MM
-MM.
+MM
 MMC
 MMDF
 MME
@@ -219552,7 +219461,7 @@ MNRAS
 MNS
 MNurs
 mo
-Mo.
+Mo
 MOA
 Moab
 Moabite
@@ -219703,7 +219612,7 @@ mocomoco
 Moctezuma
 mocuck
 MOD
-mod.
+mod
 modal
 Modale
 modalism
@@ -219967,7 +219876,7 @@ mohairs
 mohalim
 Mohall
 Moham
-Moham.
+Moham
 Mohamed
 Mohammad
 Mohammed
@@ -220145,7 +220054,7 @@ Mokpo
 moksha
 mokum
 MOL
-mol.
+mol
 MOLA
 molal
 Molala
@@ -220480,7 +220389,7 @@ MOMV
 momzer
 momzers
 Mon
-Mon.
+Mon
 Mona
 Monaca
 Monacan
@@ -221742,7 +221651,7 @@ monstrous
 monstrously
 monstrousness
 Mont
-Mont.
+Mont
 montabyn
 montadale
 montage
@@ -223629,7 +223538,7 @@ MPU
 MPV
 MPW
 MR
-Mr.
+Mr
 MRA
 Mraz
 MrBrown
@@ -223651,7 +223560,7 @@ mRNA
 Mroz
 MRP
 MRS
-Mrs.
+Mrs
 MrsBrown
 MrSmith
 MRSR
@@ -223660,7 +223569,7 @@ MrsSmith
 MRTS
 MRU
 MS
-MS.
+MS
 MSA
 MSAE
 msalliance
@@ -223695,7 +223604,7 @@ MSGeolE
 MSGM
 MSGMgt
 Msgr
-Msgr.
+Msgr
 MSgt
 MSH
 MSHA
@@ -223728,7 +223637,7 @@ Msterberg
 MSTS
 MSW
 MT
-Mt.
+Mt
 MTA
 MTB
 Mtbaldy
@@ -223739,7 +223648,7 @@ MTD
 MTech
 MTF
 mtg
-mtg.
+mtg
 mtge
 MTh
 MTI
@@ -224881,7 +224790,7 @@ mumsy
 mumu
 mumus
 Mun
-mun.
+mun
 Muna
 Munafo
 Munandi
@@ -226117,7 +226026,7 @@ nagual
 nagualism
 nagualist
 Nah
-Nah.
+Nah
 Naha
 Nahama
 Nahamas
@@ -227082,7 +226991,7 @@ nativities
 nativus
 Natka
 natl
-natl.
+natl
 NATO
 Natoma
 Natorp
@@ -227246,7 +227155,7 @@ Nausicaa
 Nausithous
 nausity
 naut
-naut.
+naut
 nautch
 nautches
 Nautes
@@ -227273,7 +227182,7 @@ nautiluses
 nautophone
 Nauvoo
 nav
-nav.
+nav
 Nava
 Navada
 navagium
@@ -227338,7 +227247,7 @@ naviculoid
 navies
 naviform
 navig
-navig.
+navig
 navigability
 navigabilities
 navigable
@@ -227575,7 +227484,7 @@ Nebiim
 NEbn
 Nebo
 Nebr
-Nebr.
+Nebr
 Nebraska
 Nebraskan
 nebraskans
@@ -228105,7 +228014,7 @@ Negundo
 Negus
 neguses
 Neh
-Neh.
+Neh
 Nehalem
 Nehantic
 Nehawka
@@ -228982,7 +228891,7 @@ nete
 neter
 netful
 Neth
-Neth.
+Neth
 netheist
 nether
 Netherlander
@@ -229455,7 +229364,7 @@ neustons
 Neustria
 Neustrian
 neut
-neut.
+neut
 neuter
 neutercane
 neuterdom
@@ -229506,7 +229415,7 @@ neutrophilous
 neutrophils
 neutrosphere
 Nev
-Nev.
+Nev
 Neva
 Nevada
 Nevadan
@@ -231421,7 +231330,7 @@ nolt
 Nolte
 Noludar
 nom
-nom.
+nom
 Noma
 nomad
 nomade
@@ -239152,7 +239061,7 @@ nopal
 Nopalea
 nopalrynopinene
 Nor
-Nor.
+Nor
 Nora
 NORAD
 noradrenalin
@@ -239428,7 +239337,7 @@ Norvin
 Norvol
 Norvun
 Norw
-Norw.
+Norw
 Norway
 Norwalk
 Norward
@@ -239866,7 +239775,7 @@ nouveaux
 nouvelle
 nouvelles
 Nov
-Nov.
+Nov
 Nova
 Novachord
 novaculite
@@ -240070,7 +239979,7 @@ NPV
 NQ
 NQS
 nr
-nr.
+nr
 NRA
 NRAB
 NRAO
@@ -240496,7 +240405,7 @@ numinouses
 numinously
 numinousness
 numis
-numis.
+numis
 numismatic
 numismatical
 numismatically
@@ -240962,7 +240871,7 @@ Obasanjo
 Obau
 Obaza
 obb
-obb.
+obb
 Obbard
 Obbenite
 obbligati
@@ -240981,7 +240890,7 @@ obdiplostemony
 obdiplostemonous
 obdormition
 obdt
-obdt.
+obdt
 obduce
 obduction
 obduracy
@@ -241115,7 +241024,7 @@ obituarily
 obituarist
 obituarize
 obj
-obj.
+obj
 object
 objectable
 objectant
@@ -242699,7 +242608,7 @@ Ofelia
 Ofella
 ofer
 off
-off.
+off
 Offa
 offal
 Offaly
@@ -243236,7 +243145,7 @@ Okinagan
 Okinawa
 Okinawan
 Okla
-Okla.
+Okla
 Oklafalaya
 Oklahannali
 Oklahoma
@@ -243729,7 +243638,7 @@ Olwen
 Olwena
 OLWM
 OM
-Om.
+Om
 oma
 omadhaun
 Omagh
@@ -244372,7 +244281,7 @@ Onsted
 onsweep
 onsweeping
 ont
-Ont.
+Ont
 ontal
 Ontarian
 Ontaric
@@ -244624,7 +244533,7 @@ oozoa
 oozoid
 oozooid
 OP
-op.
+op
 OPA
 opacate
 opacify
@@ -245131,7 +245040,7 @@ opossum
 opossums
 opotherapy
 Opp
-opp.
+opp
 Oppen
 Oppenheim
 Oppenheimer
@@ -245633,7 +245542,7 @@ Orcas
 orcein
 orceins
 orch
-orch.
+orch
 orchamus
 orchanet
 orchard
@@ -245743,7 +245652,7 @@ orcs
 Orcus
 Orczy
 Ord
-ord.
+ord
 ordain
 ordainable
 ordained
@@ -245809,7 +245718,7 @@ ordinee
 ordines
 ORDLIX
 ordn
-ordn.
+ordn
 ordnance
 ordnances
 ordo
@@ -245841,7 +245750,7 @@ orective
 ored
 Orefield
 Oreg
-Oreg.
+Oreg
 oregano
 oreganos
 Oregon
@@ -245918,7 +245827,7 @@ orfray
 orfrays
 Orfurd
 org
-org.
+org
 orgal
 orgament
 orgamy
@@ -246181,7 +246090,7 @@ oriflamb
 oriflamme
 oriform
 orig
-orig.
+orig
 origami
 origamis
 origan
@@ -246404,7 +246313,7 @@ ornithogeographical
 ornithography
 ornithoid
 ornithol
-ornithol.
+ornithol
 Ornitholestes
 ornitholite
 ornitholitic
@@ -246630,7 +246539,7 @@ Ortensia
 orterde
 ortet
 Orth
-Orth.
+Orth
 Orthaea
 Orthagoriscus
 orthal
@@ -254622,7 +254531,7 @@ oxtongues
 Oxus
 oxwort
 Oz
-oz.
+oz
 Oza
 ozaena
 Ozalid
@@ -255490,7 +255399,7 @@ Paisley
 paisleys
 Payson
 payt
-payt.
+payt
 paytamine
 Payton
 Paiute
@@ -255523,7 +255432,7 @@ Pakokku
 Pakse
 paktong
 PAL
-Pal.
+Pal
 Pala
 palabra
 palabras
@@ -255678,7 +255587,7 @@ palaeontography
 palaeontographic
 palaeontographical
 palaeontol
-palaeontol.
+palaeontol
 palaeontology
 palaeontologic
 palaeontological
@@ -256556,7 +256465,7 @@ palustrian
 palustrine
 Paluxy
 PAM
-pam.
+pam
 pamaceous
 pamaquin
 pamaquine
@@ -256640,7 +256549,7 @@ Pampuch
 pams
 Pamunkey
 PAN
-Pan.
+Pan
 Pana
 panabase
 Panaca
@@ -257749,7 +257658,7 @@ Paque
 paquet
 Paquito
 PAR
-par.
+par
 para
 paraaminobenzoic
 parabanate
@@ -259049,7 +258958,7 @@ parkway
 parkways
 parkward
 Parl
-Parl.
+Parl
 parlay
 parlayed
 parlayer
@@ -259434,7 +259343,7 @@ Parsonsia
 parsonsite
 Parsva
 part
-part.
+part
 partable
 partage
 partakable
@@ -259794,7 +259703,7 @@ pasquinading
 Pasquinian
 Pasquino
 Pass
-pass.
+pass
 passable
 passableness
 passably
@@ -260100,7 +260009,7 @@ pasturewise
 pasturing
 pasul
 PAT
-pat.
+pat
 pataao
 patacas
 patache
@@ -260308,7 +260217,7 @@ pathography
 pathographic
 pathographical
 pathol
-pathol.
+pathol
 patholysis
 patholytic
 pathology
@@ -260963,7 +260872,7 @@ PBT
 PBX
 pbxes
 PC
-pc.
+pc
 PCA
 PCAT
 PCB
@@ -260983,12 +260892,12 @@ PCPC
 PCS
 PCSA
 pct
-pct.
+pct
 PCTE
 PCTS
 PCTV
 PD
-pd.
+pd
 PDAD
 PDE
 PDES
@@ -261448,7 +261357,7 @@ pecuniarily
 pecuniosity
 pecunious
 ped
-ped.
+ped
 peda
 pedage
 pedagese
