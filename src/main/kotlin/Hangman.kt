@@ -14,7 +14,7 @@ fun main(){
     var playAgainResp: Char
     var isCorrectResponse: Boolean
 
-    val inputStream: InputStream = File("word-database.txt").inputStream()
+    val inputStream: InputStream = File("./src/main/resources/word-database.txt").inputStream()
     val wordsDatabase = mutableListOf<String>()
 
     inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it)} }
