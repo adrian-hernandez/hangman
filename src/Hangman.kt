@@ -8,7 +8,6 @@ fun main(){
     //Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
     var health: Int
-    var word: String
     var choiceIsValid: Boolean
     var playAgainResp: Char
     var isCorrectResponse: Boolean
@@ -17,13 +16,6 @@ fun main(){
     val wordsDatabase = mutableListOf<String>()
 
     inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it)} }
-
-    //easy level:  default
-    val easyList = wordsDatabase.filter{
-        word -> word.length > 4 && word.length < 8
-    }
-
-    println("easyList $easyList")
 
     playAgain = true
 
@@ -35,11 +27,11 @@ fun main(){
 
         println("Welcome. Let's play Hangman!")
 
-        var random = Random()
-        var index = random.nextInt(easyList.size)
-        word = wordsDatabase[index]
+        val random = Random()
+        val index = random.nextInt(wordsDatabase.size)
+        val word = wordsDatabase[index]
 
-        var blanks = word.toCharArray()
+        val blanks = word.toCharArray()
         var count = 0
         while (count < word.length) {
             blanks[count] = '_'
@@ -72,7 +64,7 @@ fun main(){
                 }
             }
 
-            var matched: Boolean = false
+            var matched = false
             for ((index, value) in word.withIndex()) {
                 if (value.equals(response, true)) {
                     blanks[index] = response
