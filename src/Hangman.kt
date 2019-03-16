@@ -5,7 +5,6 @@ import java.io.InputStream
 fun main(){
 
     //TODO
-    //Simplify DB data; too many difficult words
     //Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
     var health: Int
