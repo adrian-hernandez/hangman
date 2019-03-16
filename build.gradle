@@ -1,0 +1,16 @@
+plugins {
+    id "org.jetbrains.kotlin.jvm" version "1.3.21"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+}
+
+//TODO : Fix the null pointer exception thrown (gradle run)
+apply plugin: 'application'
+mainClassName = 'com.game.HangmanKt'
