@@ -6,8 +6,8 @@ import java.io.InputStream
 
 fun main(){
 
-    //TODO
-    //Need to use as many Kotlin concepts as possible
+    // TODO
+    // Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
     var health: Int
     var choiceIsValid: Boolean
@@ -23,7 +23,7 @@ fun main(){
 
     while(playAgain){
 
-        health = 6 //Head, body, two legs, two arms (will add animation later)
+        health = 6 // Head, body, two legs, two arms (will add animation later)
 
         choiceIsValid = false
 
