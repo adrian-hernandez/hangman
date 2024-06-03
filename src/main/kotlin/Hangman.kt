@@ -6,8 +6,6 @@ import java.io.InputStream
 
 fun main(){
 
-    // TODO
-    // Need to use as many Kotlin concepts as possible
     var playAgain: Boolean
     var health: Int
     var choiceIsValid: Boolean
@@ -86,7 +84,7 @@ fun main(){
             }
             println("")
 
-            //reset spacedBlanks
+            // Reset spacedBlanks
             spacedblanks = ""
             for (letter in blanks) {
                 spacedblanks += "$letter "
