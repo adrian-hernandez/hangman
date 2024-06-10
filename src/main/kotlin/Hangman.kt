@@ -34,6 +34,25 @@ class HangmanGame : Application() {
         root.alignment = Pos.CENTER
         root.children.addAll(healthLabel, wordLabel, messageLabel, inputField)
 
+        // Set VBox alignment to center
+        root.alignment = Pos.CENTER
+
+        // Set inputField width to about a third of the window's width
+        inputField.prefWidth = 100.0
+
+        // Center input field within VBox
+        VBox.setMargin(inputField, javafx.geometry.Insets(0.0, 150.0, 0.0, 150.0))
+
+        // Center text in the input field
+        inputField.alignment = Pos.CENTER
+
+        // Limit text length to 1 character
+        inputField.textProperty().addListener { _, oldValue, newValue ->
+            if (newValue.length > 1) {
+                inputField.text = newValue.take(1)
+            }
+        }
+
         inputField.setOnAction { handleInput() }
 
         startNewGame()
@@ -46,9 +65,8 @@ class HangmanGame : Application() {
 
     private fun startNewGame() {
         health = 6
-        healthLabel.text = "Health: $health"
-        messageLabel.text = "Welcome!\nLet's play Hangman!"
-        messageLabel.font = Font.font(24.0)
+        setFont(healthLabel, "Health: $health")
+        setFont(messageLabel, "Welcome!\nLet's play Hangman!")
         word = wordsDatabase[Random.nextInt(wordsDatabase.size)]
         blanks = CharArray(word.length) { '_' }
         updateWordLabel()
@@ -65,8 +83,7 @@ class HangmanGame : Application() {
                 return
             }
             if (!response.isLetter()) {
-                messageLabel.text = "Oops! Looks like you slipped your finger there!"
-                messageLabel.font = Font.font(24.0)
+                setFont(messageLabel, "Oops! Looks like you slipped your finger there!")
                 return
             }
             var matched = false
@@ -78,12 +95,10 @@ class HangmanGame : Application() {
             }
             if (!matched) {
                 health--
-                messageLabel.text = "Yikes! $response is not in the mystery word :("
-                messageLabel.font = Font.font(24.0)
+                setFont(messageLabel, "Yikes! $response is not in the mystery word :(")
                 drawLivePlayer()
             } else {
-                messageLabel.text = "Great! $response is in the mystery word!"
-                messageLabel.font = Font.font(24.0)
+                setFont(messageLabel, "Great! $response is in the mystery word!")
                 drawLivePlayer()
             }
             updateWordLabel()
@@ -104,11 +119,11 @@ class HangmanGame : Application() {
 
     private fun checkGameStatus() {
         if (!blanks.contains('_')) {
-            messageLabel.text = "YOU WON!\nWanna play again? (y/n)"
+            setFont(messageLabel, "YOU WON!\nWanna play again? (y/n)")
             showPlayAgainDialog()
         } else if (health <= 0) {
             drawDead()
-            messageLabel.text = "You lost :( The mystery word was: $word.\nWanna play again? (y/n)"
+            setFont(messageLabel, "You lost :( The mystery word was: $word.\nWanna play again? (y/n)")
             showPlayAgainDialog()
         }
     }
@@ -118,18 +133,21 @@ class HangmanGame : Application() {
     }
 
     private fun updateWordLabel() {
-        wordLabel.text = blanks.joinToString(" ")
-        wordLabel.font = Font.font(24.0)
+        setFont(wordLabel, blanks.joinToString(" "))
     }
 
     private fun drawLivePlayer() {
-        healthLabel.text = "Health: $health"
-        healthLabel.font = Font.font(24.0)
+        setFont(healthLabel, "Health: $health")
     }
 
     private fun drawDead() {
-        healthLabel.text = "Health: 0"
-        healthLabel.font = Font.font(24.0)
+        setFont(healthLabel, "Health: 0")
+    }
+
+    private fun setFont(label: Label, text: String) {
+        label.text = text
+        label.font = Font.font(20.0)
+        label.alignment = Pos.CENTER
     }
 }
 
