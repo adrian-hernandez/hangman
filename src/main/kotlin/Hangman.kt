@@ -176,7 +176,7 @@ fun drawTwoHealthStatus(){
     println("")
     println(" -----")
     println("|     |")
-    println("      O")
+    println("|     O")
     println("""|    /|\""")
     println("|")
     println("|")
