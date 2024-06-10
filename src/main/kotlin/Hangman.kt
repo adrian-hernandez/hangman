@@ -1,220 +1,138 @@
 package com.game
 
-import java.util.*
+import javafx.application.Application
+import javafx.geometry.Pos
+import javafx.scene.Scene
+import javafx.scene.control.Label
+import javafx.scene.control.TextField
+import javafx.scene.layout.VBox
+import javafx.scene.text.Font
+import javafx.stage.Stage
 import java.io.File
 import java.io.InputStream
+import kotlin.random.Random
 
-fun main(){
+class HangmanGame : Application() {
 
-    var playAgain: Boolean
-    var health: Int
-    var choiceIsValid: Boolean
-    var playAgainResp: Char
-    var isCorrectResponse: Boolean
+    private var playAgain: Boolean = true
+    private var health: Int = 6
+    private val wordsDatabase = mutableListOf<String>()
+    private lateinit var word: String
+    private lateinit var blanks: CharArray
+    private val wordLabel = Label()
+    private val healthLabel = Label()
+    private val messageLabel = Label()
+    private val inputField = TextField()
+    private lateinit var primaryStage: Stage  // Class-level variable to hold the primary stage
+    private val root = VBox(10.0)
 
-    val inputStream: InputStream = File("./src/main/resources/word-database.txt").inputStream()
-    val wordsDatabase = mutableListOf<String>()
+    override fun start(primaryStage: Stage) {
+        this.primaryStage = primaryStage  // Initialize the class-level variable
+        val inputStream: InputStream = File("./src/main/resources/word-database.txt").inputStream()
+        inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it) } }
 
-    inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it)} }
+        root.alignment = Pos.CENTER
+        root.children.addAll(healthLabel, wordLabel, messageLabel, inputField)
 
-    playAgain = true
+        inputField.setOnAction { handleInput() }
 
-    while(playAgain){
+        startNewGame()
 
-        health = 6 // Head, body, two legs, two arms (will add animation later)
+        val scene = Scene(root, 400.0, 300.0)
+        primaryStage.title = "Hangman"
+        primaryStage.scene = scene
+        primaryStage.show()
+    }
 
-        choiceIsValid = false
+    private fun startNewGame() {
+        health = 6
+        healthLabel.text = "Health: $health"
+        messageLabel.text = "Welcome!\nLet's play Hangman!"
+        messageLabel.font = Font.font(24.0)
+        word = wordsDatabase[Random.nextInt(wordsDatabase.size)]
+        blanks = CharArray(word.length) { '_' }
+        updateWordLabel()
+        drawLivePlayer()
+    }
 
-        println("Welcome. Let's play Hangman!")
-
-        val random = Random()
-        val index = random.nextInt(wordsDatabase.size)
-        val word = wordsDatabase[index]
-
-        val blanks = word.toCharArray()
-        var count = 0
-        while (count < word.length) {
-            blanks[count] = '_'
-            count++
-        }
-        var spacedblanks = ""
-        for (letter in blanks) {
-            spacedblanks += "$letter "
-        }
-
-        drawLivePlayer(health)
-        println("$spacedblanks")
-
-        while(health > 0){
-
-            var response = '!'
-            isCorrectResponse = false
-            println("")
-            println("Your current health: $health")
-            println("")
-            while(!isCorrectResponse){
-                println("Please choose a letter.")
-                 response = readLine()!![0]
-
-                if(response.isLetter()) {
-                    isCorrectResponse = true
-                }
-                else{
-                    println("Oops! Looks like you slipped your finger there!")
-                }
+    private fun handleInput() {
+        val responseText = inputField.text
+        if (responseText.isNotEmpty()) {
+            val response = responseText[0].toLowerCase()
+            inputField.clear()
+            if (messageLabel.text.contains("Wanna play again?")) {
+                handlePlayAgainInput(response)
+                return
             }
-
+            if (!response.isLetter()) {
+                messageLabel.text = "Oops! Looks like you slipped your finger there!"
+                messageLabel.font = Font.font(24.0)
+                return
+            }
             var matched = false
             for ((index, value) in word.withIndex()) {
                 if (value.equals(response, true)) {
                     blanks[index] = response
                     matched = true
                 }
-
             }
-            if(!matched){
+            if (!matched) {
                 health--
-                println("Yikes! $response is not in the mystery word :(")
-                drawLivePlayer(health)
-            }else{
-                println("Great! $response is in the mystery word!")
-                if(health > 0){
-                    drawLivePlayer(health)
-                }
+                messageLabel.text = "Yikes! $response is not in the mystery word :("
+                messageLabel.font = Font.font(24.0)
+                drawLivePlayer()
+            } else {
+                messageLabel.text = "Great! $response is in the mystery word!"
+                messageLabel.font = Font.font(24.0)
+                drawLivePlayer()
             }
-            println("")
+            updateWordLabel()
+            checkGameStatus()
+        }
+    }
 
-            // Reset spacedBlanks
-            spacedblanks = ""
-            for (letter in blanks) {
-                spacedblanks += "$letter "
+    private fun handlePlayAgainInput(response: Char) {
+        when (response) {
+            'y' -> {
+                startNewGame()
             }
-
-            println(spacedblanks)
-
-            if(!blanks.contains('_')){
-                println("YOU WON!")
-                break
+            'n' -> {
+                primaryStage.close()
             }
         }
-        if(health < 1){
+    }
+
+    private fun checkGameStatus() {
+        if (!blanks.contains('_')) {
+            messageLabel.text = "YOU WON!\nWanna play again? (y/n)"
+            showPlayAgainDialog()
+        } else if (health <= 0) {
             drawDead()
-            println("You lost :(")
-            println("The mystery word was: $word")
+            messageLabel.text = "You lost :( The mystery word was: $word.\nWanna play again? (y/n)"
+            showPlayAgainDialog()
         }
+    }
 
-        while(!choiceIsValid){
-            println("Wanna play again? (y, n)")
-            playAgainResp = readLine()!![0]
+    private fun showPlayAgainDialog() {
+        inputField.requestFocus()
+    }
 
-            when (playAgainResp) {
-                'y' -> playAgain = true
-                'n' -> playAgain = false
-            }
-            when (playAgainResp) {
-                'y' -> choiceIsValid = true
-                'n' -> choiceIsValid = true
-                else -> choiceIsValid = false
-            }
+    private fun updateWordLabel() {
+        wordLabel.text = blanks.joinToString(" ")
+        wordLabel.font = Font.font(24.0)
+    }
 
-            if(!playAgain){
-                println("Thanks for playing! Good-bye")
-            }
-        }
+    private fun drawLivePlayer() {
+        healthLabel.text = "Health: $health"
+        healthLabel.font = Font.font(24.0)
+    }
+
+    private fun drawDead() {
+        healthLabel.text = "Health: 0"
+        healthLabel.font = Font.font(24.0)
     }
 }
 
-fun drawSixHealtStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|")
-    println("|")
-    println("|")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawFiveHealthStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("|")
-    println("|")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawFourHealthStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("|     |")
-    println("|")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawThreeHealthStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("|    /|")
-    println("|")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawTwoHealthStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("""|    /|\""")
-    println("|")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawOneHealthStatus(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("""|    /|\""")
-    println("""|    /""")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawDead(){
-    println("")
-    println(" -----")
-    println("|     |")
-    println("|     O")
-    println("""|    /|\""")
-    println("""|    / \""")
-    println("|")
-    println("|")
-    println("")
-}
-
-fun drawLivePlayer(health: Int){
-    when(health){
-        6 -> drawSixHealtStatus()
-        5 -> drawFiveHealthStatus()
-        4 -> drawFourHealthStatus()
-        3 -> drawThreeHealthStatus()
-        2 -> drawTwoHealthStatus()
-        1 -> drawOneHealthStatus()
-    }
+fun main() {
+    Application.launch(HangmanGame::class.java)
 }
