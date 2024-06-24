@@ -5,6 +5,8 @@ import javafx.geometry.Pos
 import javafx.scene.Scene
 import javafx.scene.control.Label
 import javafx.scene.control.TextField
+import javafx.scene.image.Image
+import javafx.scene.image.ImageView
 import javafx.scene.layout.VBox
 import javafx.scene.text.Font
 import javafx.stage.Stage
@@ -23,8 +25,10 @@ class HangmanGame : Application() {
     private val healthLabel = Label()
     private val messageLabel = Label()
     private val inputField = TextField()
+    private val hangmanImageView = ImageView()
     private lateinit var primaryStage: Stage  // Class-level variable to hold the primary stage
     private val root = VBox(10.0)
+    private var replayed: Boolean = false  // Global boolean variable
 
     override fun start(primaryStage: Stage) {
         this.primaryStage = primaryStage  // Initialize the class-level variable
@@ -32,16 +36,16 @@ class HangmanGame : Application() {
         inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it) } }
 
         root.alignment = Pos.CENTER
-        root.children.addAll(healthLabel, wordLabel, messageLabel, inputField)
+        root.children.addAll(healthLabel, hangmanImageView, wordLabel, messageLabel, inputField)
 
         // Set VBox alignment to center
         root.alignment = Pos.CENTER
 
         // Set inputField width to about a third of the window's width
-        inputField.prefWidth = 100.0
+        inputField.prefWidth = 200.0
 
         // Center input field within VBox
-        VBox.setMargin(inputField, javafx.geometry.Insets(0.0, 150.0, 0.0, 150.0))
+        VBox.setMargin(inputField, javafx.geometry.Insets(0.0, 200.0, 0.0, 200.0))
 
         // Center text in the input field
         inputField.alignment = Pos.CENTER
@@ -57,20 +61,29 @@ class HangmanGame : Application() {
 
         startNewGame()
 
-        val scene = Scene(root, 400.0, 300.0)
+        val scene = Scene(root, 600.0, 500.0)
         primaryStage.title = "Hangman"
         primaryStage.scene = scene
         primaryStage.show()
+
+        // Bring the window to the front and request focus
+        primaryStage.toFront()
+        primaryStage.requestFocus()
     }
 
     private fun startNewGame() {
         health = 6
-        setFont(healthLabel, "Health: $health")
-        setFont(messageLabel, "Welcome!\nLet's play Hangman!")
+        updateHealthLabel()
+        if (replayed) {
+            setFont(messageLabel, "Let's play Hangman!")
+        } else {
+            setFont(messageLabel, "Welcome!\nLet's play Hangman!")
+        }
         word = wordsDatabase[Random.nextInt(wordsDatabase.size)]
         blanks = CharArray(word.length) { '_' }
         updateWordLabel()
-        drawLivePlayer()
+        updateHangmanImage()
+        replayed = true  // Set replayed to true after the first game
     }
 
     private fun handleInput() {
@@ -95,13 +108,13 @@ class HangmanGame : Application() {
             }
             if (!matched) {
                 health--
+                updateHealthLabel()
                 setFont(messageLabel, "Yikes! $response is not in the mystery word :(")
-                drawLivePlayer()
             } else {
                 setFont(messageLabel, "Great! $response is in the mystery word!")
-                drawLivePlayer()
             }
             updateWordLabel()
+            updateHangmanImage()
             checkGameStatus()
         }
     }
@@ -122,8 +135,8 @@ class HangmanGame : Application() {
             setFont(messageLabel, "YOU WON!\nWanna play again? (y/n)")
             showPlayAgainDialog()
         } else if (health <= 0) {
-            drawDead()
             setFont(messageLabel, "You lost :( The mystery word was: $word.\nWanna play again? (y/n)")
+            updateHangmanImage()  // Update the image to show the final state
             showPlayAgainDialog()
         }
     }
@@ -136,12 +149,14 @@ class HangmanGame : Application() {
         setFont(wordLabel, blanks.joinToString(" "))
     }
 
-    private fun drawLivePlayer() {
-        setFont(healthLabel, "Health: $health")
+    private fun updateHangmanImage() {
+        val imagePath = "file:images/hangman-$health.png"
+        val image = Image(imagePath)
+        hangmanImageView.image = image
     }
 
-    private fun drawDead() {
-        setFont(healthLabel, "Health: 0")
+    private fun updateHealthLabel() {
+        setFont(healthLabel, "Health: $health")
     }
 
     private fun setFont(label: Label, text: String) {
