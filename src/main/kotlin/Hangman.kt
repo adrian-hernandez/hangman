@@ -9,6 +9,8 @@ import javafx.scene.image.Image
 import javafx.scene.image.ImageView
 import javafx.scene.layout.VBox
 import javafx.scene.text.Font
+import javafx.scene.text.FontWeight
+import javafx.scene.paint.Color
 import javafx.stage.Stage
 import java.io.File
 import java.io.InputStream
@@ -24,11 +26,13 @@ class HangmanGame : Application() {
     private val wordLabel = Label()
     private val healthLabel = Label()
     private val messageLabel = Label()
+    private val lettersUsedLabel = Label()
     private val inputField = TextField()
     private val hangmanImageView = ImageView()
     private lateinit var primaryStage: Stage  // Class-level variable to hold the primary stage
     private val root = VBox(10.0)
     private var replayed: Boolean = false  // Global boolean variable
+    private val lettersUsed: ArrayList<Char> = ArrayList()  // Empty global ArrayList of Characters
 
     override fun start(primaryStage: Stage) {
         this.primaryStage = primaryStage  // Initialize the class-level variable
@@ -36,7 +40,7 @@ class HangmanGame : Application() {
         inputStream.bufferedReader().useLines { lines -> lines.forEach { wordsDatabase.add(it) } }
 
         root.alignment = Pos.CENTER
-        root.children.addAll(healthLabel, hangmanImageView, wordLabel, messageLabel, inputField)
+        root.children.addAll(healthLabel, hangmanImageView, wordLabel, lettersUsedLabel, messageLabel, inputField)
 
         // Set VBox alignment to center
         root.alignment = Pos.CENTER
@@ -61,7 +65,7 @@ class HangmanGame : Application() {
 
         startNewGame()
 
-        val scene = Scene(root, 600.0, 500.0)
+        val scene = Scene(root, 600.0, 600.0)
         primaryStage.title = "Hangman"
         primaryStage.scene = scene
         primaryStage.show()
@@ -81,7 +85,9 @@ class HangmanGame : Application() {
         }
         word = wordsDatabase[Random.nextInt(wordsDatabase.size)]
         blanks = CharArray(word.length) { '_' }
+        lettersUsed.clear()  // Clear lettersUsed for new game
         updateWordLabel()
+        updateLettersUsedLabel()  // Update letters used label
         updateHangmanImage()
         replayed = true  // Set replayed to true after the first game
     }
@@ -99,6 +105,12 @@ class HangmanGame : Application() {
                 setFont(messageLabel, "Oops! Looks like you slipped your finger there!")
                 return
             }
+            if (lettersUsed.contains(response)) {
+                setFont(messageLabel, "You've already used $response, try another letter.")
+                return
+            }
+            lettersUsed.add(response)
+            updateLettersUsedLabel()  // Update letters used label
             var matched = false
             for ((index, value) in word.withIndex()) {
                 if (value.equals(response, true)) {
@@ -147,6 +159,13 @@ class HangmanGame : Application() {
 
     private fun updateWordLabel() {
         setFont(wordLabel, blanks.joinToString(" "))
+    }
+
+    private fun updateLettersUsedLabel() {
+        lettersUsedLabel.text = "Letters used: ${lettersUsed.joinToString(", ")}"
+        lettersUsedLabel.font = Font.font("System", FontWeight.BOLD, 20.0)
+        lettersUsedLabel.textFill = Color.RED
+        lettersUsedLabel.alignment = Pos.CENTER
     }
 
     private fun updateHangmanImage() {
